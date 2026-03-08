@@ -1,0 +1,2001 @@
+match_id,season,team1,team2,winner,player_of_match,venue,total_runs,wickets
+1,2019,Gujarat Titans,Chennai Super Kings,Gujarat Titans,Andre Russell,Lucknow,224,3
+2,2022,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Hardik Pandya,Chennai,240,9
+3,2018,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,KL Rahul,Delhi,172,7
+4,2022,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,KL Rahul,Ahmedabad,239,2
+5,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,Kolkata,144,9
+6,2019,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Rishabh Pant,Hyderabad,129,10
+7,2019,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,Lucknow,143,7
+8,2020,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Ravindra Jadeja,Delhi,174,7
+9,2022,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Hardik Pandya,Hyderabad,240,9
+10,2023,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Rishabh Pant,Lucknow,152,9
+11,2023,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Rishabh Pant,Kolkata,235,9
+12,2019,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Ravindra Jadeja,Ahmedabad,224,2
+13,2023,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Rishabh Pant,Lucknow,213,2
+14,2020,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Ravindra Jadeja,Lucknow,198,10
+15,2022,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Shubman Gill,Kolkata,206,7
+16,2018,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Jos Buttler,Chennai,143,5
+17,2023,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Ravindra Jadeja,Delhi,234,4
+18,2020,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Virat Kohli,Delhi,162,6
+19,2018,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Hardik Pandya,Hyderabad,209,9
+20,2023,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,Ahmedabad,222,2
+21,2023,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,MS Dhoni,Mohali,225,9
+22,2020,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Ravindra Jadeja,Mumbai,195,7
+23,2022,Rajasthan Royals,Gujarat Titans,Gujarat Titans,Ravindra Jadeja,Bangalore,179,8
+24,2023,Chennai Super Kings,Gujarat Titans,Gujarat Titans,Hardik Pandya,Bangalore,204,2
+25,2022,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Andre Russell,Jaipur,146,2
+26,2020,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Andre Russell,Mohali,163,7
+27,2019,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Virat Kohli,Ahmedabad,170,3
+28,2019,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Virat Kohli,Delhi,131,2
+29,2021,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,MS Dhoni,Mumbai,140,9
+30,2018,Punjab Kings,Mumbai Indians,Punjab Kings,Shubman Gill,Mohali,177,3
+31,2020,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Rishabh Pant,Mohali,230,7
+32,2020,Delhi Capitals,Mumbai Indians,Delhi Capitals,Rishabh Pant,Chennai,176,3
+33,2023,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Ravindra Jadeja,Lucknow,191,5
+34,2023,Punjab Kings,Delhi Capitals,Delhi Capitals,Rishabh Pant,Kolkata,154,7
+35,2018,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Shubman Gill,Ahmedabad,193,8
+36,2022,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Hardik Pandya,Bangalore,172,8
+37,2023,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,Hyderabad,164,2
+38,2020,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Jos Buttler,Mumbai,187,9
+39,2018,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Rishabh Pant,Bangalore,220,9
+40,2019,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Shubman Gill,Delhi,120,10
+41,2019,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Jos Buttler,Kolkata,214,4
+42,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Shubman Gill,Delhi,163,9
+43,2023,Chennai Super Kings,Punjab Kings,Chennai Super Kings,KL Rahul,Mumbai,136,3
+44,2020,Delhi Capitals,Mumbai Indians,Delhi Capitals,KL Rahul,Hyderabad,153,9
+45,2021,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Rishabh Pant,Delhi,215,3
+46,2018,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,MS Dhoni,Lucknow,166,9
+47,2022,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Andre Russell,Mumbai,175,2
+48,2022,Rajasthan Royals,Punjab Kings,Punjab Kings,Rohit Sharma,Bangalore,145,5
+49,2023,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Andre Russell,Kolkata,166,2
+50,2021,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,MS Dhoni,Kolkata,126,9
+51,2022,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,Jos Buttler,Chennai,237,4
+52,2020,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Rohit Sharma,Jaipur,176,7
+53,2020,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Ravindra Jadeja,Ahmedabad,205,7
+54,2022,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Andre Russell,Ahmedabad,189,2
+55,2020,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,Andre Russell,Bangalore,208,6
+56,2018,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,KL Rahul,Chennai,188,2
+57,2019,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Hardik Pandya,Chennai,230,10
+58,2019,Punjab Kings,Mumbai Indians,Punjab Kings,KL Rahul,Kolkata,208,9
+59,2020,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,MS Dhoni,Mumbai,202,8
+60,2022,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,Rishabh Pant,Lucknow,226,4
+61,2021,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Shubman Gill,Hyderabad,227,9
+62,2021,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Rishabh Pant,Kolkata,188,5
+63,2019,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,Hyderabad,151,2
+64,2020,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Jos Buttler,Mohali,179,8
+65,2020,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,Andre Russell,Mumbai,157,9
+66,2023,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,KL Rahul,Mumbai,156,8
+67,2021,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Hardik Pandya,Lucknow,154,5
+68,2020,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Jos Buttler,Kolkata,122,10
+69,2022,Delhi Capitals,Mumbai Indians,Mumbai Indians,MS Dhoni,Jaipur,138,3
+70,2020,Delhi Capitals,Mumbai Indians,Mumbai Indians,Andre Russell,Kolkata,153,3
+71,2021,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Shubman Gill,Jaipur,143,3
+72,2021,Delhi Capitals,Mumbai Indians,Mumbai Indians,Andre Russell,Delhi,160,4
+73,2018,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,Hardik Pandya,Kolkata,181,2
+74,2019,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,KL Rahul,Jaipur,145,10
+75,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Virat Kohli,Bangalore,187,9
+76,2021,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Andre Russell,Jaipur,194,7
+77,2020,Chennai Super Kings,Gujarat Titans,Gujarat Titans,Rohit Sharma,Lucknow,121,6
+78,2022,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,Andre Russell,Lucknow,238,2
+79,2018,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,Rishabh Pant,Mohali,208,10
+80,2021,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,MS Dhoni,Hyderabad,185,2
+81,2022,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,Rohit Sharma,Bangalore,154,6
+82,2019,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Rishabh Pant,Mumbai,137,10
+83,2019,Delhi Capitals,Mumbai Indians,Delhi Capitals,KL Rahul,Chennai,155,5
+84,2023,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Jos Buttler,Delhi,122,8
+85,2021,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Jos Buttler,Delhi,206,10
+86,2018,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,MS Dhoni,Bangalore,233,4
+87,2021,Mumbai Indians,Gujarat Titans,Mumbai Indians,MS Dhoni,Mumbai,145,5
+88,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Ravindra Jadeja,Ahmedabad,150,5
+89,2018,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Andre Russell,Ahmedabad,125,2
+90,2022,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Virat Kohli,Hyderabad,162,10
+91,2020,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,KL Rahul,Lucknow,225,9
+92,2023,Mumbai Indians,Punjab Kings,Mumbai Indians,Shubman Gill,Mohali,154,10
+93,2021,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Ravindra Jadeja,Hyderabad,187,6
+94,2021,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,Rishabh Pant,Ahmedabad,164,10
+95,2019,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,Andre Russell,Kolkata,130,2
+96,2022,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Shubman Gill,Jaipur,146,8
+97,2021,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,Hardik Pandya,Kolkata,153,2
+98,2020,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Hardik Pandya,Mumbai,220,9
+99,2019,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,Rishabh Pant,Lucknow,154,7
+100,2022,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Jos Buttler,Lucknow,218,10
+101,2023,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,MS Dhoni,Chennai,153,2
+102,2023,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Hardik Pandya,Ahmedabad,219,5
+103,2021,Punjab Kings,Gujarat Titans,Gujarat Titans,Rohit Sharma,Bangalore,136,3
+104,2021,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Rohit Sharma,Delhi,209,3
+105,2019,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Ravindra Jadeja,Lucknow,134,5
+106,2020,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,Ravindra Jadeja,Jaipur,168,6
+107,2021,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Andre Russell,Ahmedabad,194,2
+108,2018,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Rohit Sharma,Chennai,126,7
+109,2021,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,MS Dhoni,Delhi,201,2
+110,2023,Mumbai Indians,Punjab Kings,Punjab Kings,Jos Buttler,Jaipur,134,10
+111,2018,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,Jos Buttler,Bangalore,179,2
+112,2019,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Rishabh Pant,Ahmedabad,174,9
+113,2022,Delhi Capitals,Rajasthan Royals,Delhi Capitals,KL Rahul,Kolkata,189,2
+114,2020,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Hardik Pandya,Mumbai,138,3
+115,2022,Gujarat Titans,Rajasthan Royals,Gujarat Titans,KL Rahul,Jaipur,173,4
+116,2021,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,Andre Russell,Mohali,125,8
+117,2021,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,Jos Buttler,Mohali,179,4
+118,2019,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Shubman Gill,Mumbai,235,10
+119,2022,Punjab Kings,Delhi Capitals,Delhi Capitals,KL Rahul,Lucknow,134,9
+120,2022,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,Hyderabad,184,6
+121,2020,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Andre Russell,Chennai,211,4
+122,2022,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Jos Buttler,Kolkata,206,8
+123,2020,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,Hardik Pandya,Hyderabad,164,6
+124,2019,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Rishabh Pant,Hyderabad,213,9
+125,2018,Gujarat Titans,Punjab Kings,Gujarat Titans,Ravindra Jadeja,Mohali,131,6
+126,2022,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,Lucknow,203,9
+127,2023,Punjab Kings,Mumbai Indians,Mumbai Indians,KL Rahul,Mohali,194,10
+128,2019,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Jos Buttler,Ahmedabad,190,9
+129,2019,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Ravindra Jadeja,Chennai,199,8
+130,2022,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,MS Dhoni,Delhi,219,10
+131,2022,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,KL Rahul,Mohali,215,2
+132,2020,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Virat Kohli,Chennai,206,3
+133,2023,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Rohit Sharma,Mohali,188,2
+134,2022,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Virat Kohli,Mumbai,137,9
+135,2018,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Jos Buttler,Jaipur,147,6
+136,2020,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Rishabh Pant,Kolkata,121,4
+137,2022,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Shubman Gill,Mohali,183,4
+138,2021,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Rishabh Pant,Mohali,236,3
+139,2019,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,Mohali,187,5
+140,2021,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Rohit Sharma,Chennai,143,9
+141,2022,Mumbai Indians,Punjab Kings,Punjab Kings,Andre Russell,Mumbai,222,7
+142,2018,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Andre Russell,Chennai,125,7
+143,2019,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Rishabh Pant,Jaipur,141,6
+144,2021,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Virat Kohli,Kolkata,226,4
+145,2021,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Jos Buttler,Bangalore,231,8
+146,2022,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Virat Kohli,Lucknow,143,2
+147,2021,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Rohit Sharma,Delhi,193,8
+148,2020,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,KL Rahul,Delhi,154,9
+149,2022,Punjab Kings,Delhi Capitals,Delhi Capitals,Andre Russell,Delhi,186,2
+150,2023,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Hardik Pandya,Jaipur,197,2
+151,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Hardik Pandya,Mohali,200,5
+152,2020,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Rohit Sharma,Hyderabad,149,5
+153,2019,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,Ravindra Jadeja,Chennai,130,4
+154,2021,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,Hyderabad,193,4
+155,2021,Rajasthan Royals,Gujarat Titans,Gujarat Titans,Shubman Gill,Hyderabad,200,10
+156,2020,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,Lucknow,125,5
+157,2023,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Rishabh Pant,Kolkata,132,5
+158,2019,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Rohit Sharma,Jaipur,172,8
+159,2018,Mumbai Indians,Gujarat Titans,Mumbai Indians,MS Dhoni,Mumbai,212,5
+160,2023,Delhi Capitals,Mumbai Indians,Mumbai Indians,Virat Kohli,Jaipur,187,8
+161,2019,Chennai Super Kings,Delhi Capitals,Delhi Capitals,MS Dhoni,Ahmedabad,232,10
+162,2019,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Shubman Gill,Chennai,128,9
+163,2023,Punjab Kings,Chennai Super Kings,Chennai Super Kings,Hardik Pandya,Kolkata,231,2
+164,2022,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,Ravindra Jadeja,Bangalore,138,10
+165,2019,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Virat Kohli,Bangalore,227,5
+166,2018,Gujarat Titans,Delhi Capitals,Gujarat Titans,Andre Russell,Bangalore,177,7
+167,2021,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Hardik Pandya,Mohali,138,10
+168,2019,Mumbai Indians,Gujarat Titans,Gujarat Titans,MS Dhoni,Hyderabad,232,3
+169,2021,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Rishabh Pant,Ahmedabad,234,5
+170,2022,Chennai Super Kings,Gujarat Titans,Gujarat Titans,Virat Kohli,Ahmedabad,134,8
+171,2018,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Jos Buttler,Ahmedabad,231,7
+172,2023,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,MS Dhoni,Bangalore,184,6
+173,2023,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,Mumbai,216,6
+174,2018,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Rohit Sharma,Lucknow,145,2
+175,2018,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Jos Buttler,Delhi,144,9
+176,2020,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,KL Rahul,Chennai,214,8
+177,2022,Delhi Capitals,Mumbai Indians,Mumbai Indians,KL Rahul,Kolkata,215,7
+178,2019,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Ravindra Jadeja,Delhi,132,8
+179,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Shubman Gill,Kolkata,159,8
+180,2019,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,Shubman Gill,Lucknow,124,5
+181,2018,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,Mumbai,181,6
+182,2018,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,MS Dhoni,Jaipur,199,10
+183,2018,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Shubman Gill,Delhi,198,4
+184,2019,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,MS Dhoni,Jaipur,134,10
+185,2020,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Shubman Gill,Mumbai,208,4
+186,2021,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Shubman Gill,Mohali,178,7
+187,2018,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,MS Dhoni,Chennai,149,3
+188,2021,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Rishabh Pant,Chennai,143,6
+189,2021,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Rishabh Pant,Kolkata,162,8
+190,2020,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,Ravindra Jadeja,Delhi,219,4
+191,2023,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Hardik Pandya,Lucknow,133,4
+192,2022,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Jos Buttler,Lucknow,160,7
+193,2020,Punjab Kings,Chennai Super Kings,Chennai Super Kings,KL Rahul,Mumbai,141,6
+194,2020,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,MS Dhoni,Mohali,223,8
+195,2018,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Shubman Gill,Jaipur,124,8
+196,2023,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,MS Dhoni,Hyderabad,222,2
+197,2019,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Jos Buttler,Mumbai,230,2
+198,2021,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Shubman Gill,Bangalore,166,5
+199,2023,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Virat Kohli,Delhi,208,2
+200,2018,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,KL Rahul,Kolkata,190,10
+201,2020,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Rohit Sharma,Kolkata,181,9
+202,2019,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,KL Rahul,Mohali,163,10
+203,2021,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Andre Russell,Kolkata,152,4
+204,2018,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,Chennai,169,3
+205,2019,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Rishabh Pant,Ahmedabad,175,6
+206,2019,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Shubman Gill,Mohali,178,6
+207,2020,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Shubman Gill,Mohali,145,7
+208,2019,Delhi Capitals,Punjab Kings,Punjab Kings,Shubman Gill,Bangalore,185,10
+209,2020,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,Bangalore,150,7
+210,2021,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,Jos Buttler,Lucknow,230,4
+211,2018,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Jos Buttler,Delhi,147,8
+212,2020,Punjab Kings,Mumbai Indians,Mumbai Indians,Shubman Gill,Bangalore,187,10
+213,2022,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Hardik Pandya,Mumbai,163,3
+214,2021,Mumbai Indians,Delhi Capitals,Mumbai Indians,Andre Russell,Mumbai,233,9
+215,2021,Delhi Capitals,Punjab Kings,Punjab Kings,Virat Kohli,Delhi,179,5
+216,2021,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,MS Dhoni,Jaipur,202,8
+217,2018,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,KL Rahul,Mumbai,193,10
+218,2018,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Ravindra Jadeja,Hyderabad,148,2
+219,2023,Delhi Capitals,Gujarat Titans,Gujarat Titans,Andre Russell,Mohali,129,10
+220,2020,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,MS Dhoni,Hyderabad,205,2
+221,2020,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Rohit Sharma,Hyderabad,167,4
+222,2022,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,MS Dhoni,Kolkata,152,4
+223,2019,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,Hardik Pandya,Jaipur,173,10
+224,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Virat Kohli,Ahmedabad,140,6
+225,2021,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Shubman Gill,Lucknow,232,10
+226,2020,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Rishabh Pant,Chennai,199,5
+227,2023,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,KL Rahul,Kolkata,176,10
+228,2021,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,KL Rahul,Mohali,202,9
+229,2021,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Shubman Gill,Mohali,129,10
+230,2021,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Hardik Pandya,Delhi,129,3
+231,2019,Gujarat Titans,Mumbai Indians,Mumbai Indians,Hardik Pandya,Ahmedabad,164,7
+232,2018,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,Delhi,208,9
+233,2023,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Shubman Gill,Chennai,210,9
+234,2023,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,KL Rahul,Hyderabad,126,7
+235,2021,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Andre Russell,Ahmedabad,163,7
+236,2020,Delhi Capitals,Gujarat Titans,Gujarat Titans,Rishabh Pant,Kolkata,199,3
+237,2022,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,KL Rahul,Chennai,151,10
+238,2021,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,MS Dhoni,Ahmedabad,217,3
+239,2023,Punjab Kings,Gujarat Titans,Gujarat Titans,KL Rahul,Mumbai,182,9
+240,2023,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Hardik Pandya,Kolkata,234,2
+241,2021,Mumbai Indians,Punjab Kings,Mumbai Indians,Rohit Sharma,Lucknow,220,8
+242,2023,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,KL Rahul,Lucknow,229,4
+243,2023,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,Hardik Pandya,Jaipur,193,6
+244,2019,Rajasthan Royals,Mumbai Indians,Mumbai Indians,KL Rahul,Delhi,125,8
+245,2021,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Andre Russell,Hyderabad,131,4
+246,2022,Gujarat Titans,Mumbai Indians,Gujarat Titans,Shubman Gill,Chennai,125,10
+247,2023,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Rohit Sharma,Delhi,134,2
+248,2020,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,Bangalore,142,2
+249,2021,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,KL Rahul,Hyderabad,153,6
+250,2019,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,Ravindra Jadeja,Delhi,181,7
+251,2018,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Hardik Pandya,Chennai,156,9
+252,2022,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Rishabh Pant,Lucknow,204,9
+253,2020,Punjab Kings,Delhi Capitals,Punjab Kings,Jos Buttler,Lucknow,161,9
+254,2018,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,Ahmedabad,157,8
+255,2021,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,Jos Buttler,Lucknow,227,7
+256,2019,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Jos Buttler,Mumbai,160,9
+257,2019,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Ravindra Jadeja,Delhi,174,3
+258,2022,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Jos Buttler,Chennai,178,4
+259,2018,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,KL Rahul,Mumbai,192,2
+260,2020,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,MS Dhoni,Lucknow,146,3
+261,2019,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,Andre Russell,Bangalore,198,3
+262,2022,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Virat Kohli,Chennai,162,3
+263,2023,Mumbai Indians,Gujarat Titans,Mumbai Indians,Jos Buttler,Kolkata,132,9
+264,2019,Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,Rishabh Pant,Jaipur,163,5
+265,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Rohit Sharma,Mohali,238,10
+266,2019,Mumbai Indians,Delhi Capitals,Delhi Capitals,Virat Kohli,Hyderabad,173,7
+267,2022,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Virat Kohli,Kolkata,165,3
+268,2021,Mumbai Indians,Punjab Kings,Punjab Kings,Rohit Sharma,Mumbai,184,9
+269,2019,Gujarat Titans,Rajasthan Royals,Gujarat Titans,MS Dhoni,Jaipur,198,2
+270,2019,Gujarat Titans,Punjab Kings,Punjab Kings,Rohit Sharma,Bangalore,173,10
+271,2018,Punjab Kings,Kolkata Knight Riders,Punjab Kings,Rishabh Pant,Mohali,196,7
+272,2020,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,Delhi,152,6
+273,2020,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,Jos Buttler,Ahmedabad,158,3
+274,2019,Delhi Capitals,Gujarat Titans,Delhi Capitals,MS Dhoni,Hyderabad,197,7
+275,2018,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,KL Rahul,Bangalore,173,10
+276,2019,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,MS Dhoni,Ahmedabad,184,5
+277,2023,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Rishabh Pant,Ahmedabad,190,7
+278,2022,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,KL Rahul,Bangalore,235,6
+279,2020,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Hardik Pandya,Mumbai,129,6
+280,2021,Punjab Kings,Delhi Capitals,Punjab Kings,Rohit Sharma,Kolkata,178,8
+281,2023,Mumbai Indians,Gujarat Titans,Mumbai Indians,Andre Russell,Mohali,183,10
+282,2018,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,KL Rahul,Mohali,189,5
+283,2023,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Rohit Sharma,Hyderabad,177,10
+284,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Virat Kohli,Chennai,180,5
+285,2022,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Shubman Gill,Mumbai,141,6
+286,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,KL Rahul,Mohali,209,6
+287,2023,Mumbai Indians,Punjab Kings,Mumbai Indians,Andre Russell,Hyderabad,205,2
+288,2020,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,Lucknow,224,9
+289,2023,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Andre Russell,Jaipur,189,4
+290,2018,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Hardik Pandya,Jaipur,231,3
+291,2021,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Hardik Pandya,Lucknow,220,8
+292,2022,Delhi Capitals,Gujarat Titans,Delhi Capitals,Ravindra Jadeja,Hyderabad,135,5
+293,2022,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Rishabh Pant,Hyderabad,233,3
+294,2018,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,MS Dhoni,Jaipur,125,10
+295,2019,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,KL Rahul,Delhi,137,4
+296,2018,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,MS Dhoni,Mumbai,125,4
+297,2019,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Ravindra Jadeja,Kolkata,200,2
+298,2021,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,KL Rahul,Kolkata,183,2
+299,2020,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Hardik Pandya,Hyderabad,121,7
+300,2023,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,Mohali,197,10
+301,2019,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,Andre Russell,Hyderabad,184,3
+302,2021,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,Andre Russell,Delhi,235,4
+303,2023,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,KL Rahul,Chennai,196,6
+304,2019,Rajasthan Royals,Punjab Kings,Punjab Kings,MS Dhoni,Ahmedabad,196,2
+305,2021,Lucknow Super Giants,Punjab Kings,Punjab Kings,Ravindra Jadeja,Jaipur,189,7
+306,2021,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,KL Rahul,Delhi,231,9
+307,2020,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Virat Kohli,Hyderabad,200,2
+308,2018,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Ravindra Jadeja,Ahmedabad,193,8
+309,2021,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Andre Russell,Chennai,188,3
+310,2022,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,MS Dhoni,Mumbai,165,5
+311,2022,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Andre Russell,Bangalore,240,7
+312,2021,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Rohit Sharma,Mohali,230,6
+313,2023,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Rishabh Pant,Jaipur,126,7
+314,2020,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Rohit Sharma,Chennai,212,7
+315,2018,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Ravindra Jadeja,Mumbai,164,5
+316,2018,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,Bangalore,200,8
+317,2020,Mumbai Indians,Gujarat Titans,Mumbai Indians,KL Rahul,Lucknow,191,8
+318,2019,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,Hardik Pandya,Bangalore,125,7
+319,2023,Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,Virat Kohli,Bangalore,223,8
+320,2018,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Rohit Sharma,Lucknow,143,8
+321,2023,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Rishabh Pant,Chennai,176,4
+322,2022,Delhi Capitals,Punjab Kings,Delhi Capitals,Hardik Pandya,Bangalore,208,7
+323,2019,Punjab Kings,Mumbai Indians,Punjab Kings,Andre Russell,Ahmedabad,205,9
+324,2022,Gujarat Titans,Rajasthan Royals,Gujarat Titans,Hardik Pandya,Jaipur,140,8
+325,2020,Lucknow Super Giants,Punjab Kings,Punjab Kings,Andre Russell,Mumbai,129,9
+326,2023,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Rohit Sharma,Delhi,213,8
+327,2022,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Shubman Gill,Lucknow,158,9
+328,2019,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,Andre Russell,Hyderabad,185,8
+329,2021,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,MS Dhoni,Mumbai,236,2
+330,2018,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Shubman Gill,Ahmedabad,213,9
+331,2019,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Shubman Gill,Lucknow,124,3
+332,2019,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,MS Dhoni,Jaipur,163,4
+333,2023,Delhi Capitals,Gujarat Titans,Delhi Capitals,Andre Russell,Mumbai,167,5
+334,2020,Gujarat Titans,Punjab Kings,Punjab Kings,Virat Kohli,Mohali,138,8
+335,2019,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Jos Buttler,Kolkata,193,3
+336,2019,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,Rishabh Pant,Hyderabad,181,4
+337,2019,Mumbai Indians,Gujarat Titans,Gujarat Titans,Rishabh Pant,Jaipur,154,3
+338,2022,Punjab Kings,Delhi Capitals,Delhi Capitals,Ravindra Jadeja,Mohali,120,6
+339,2019,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,MS Dhoni,Chennai,195,6
+340,2021,Punjab Kings,Chennai Super Kings,Chennai Super Kings,Hardik Pandya,Mumbai,184,6
+341,2023,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Virat Kohli,Ahmedabad,122,3
+342,2021,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Rishabh Pant,Hyderabad,179,10
+343,2020,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Virat Kohli,Ahmedabad,121,7
+344,2023,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,Jos Buttler,Jaipur,161,10
+345,2022,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,Rishabh Pant,Delhi,126,9
+346,2022,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,MS Dhoni,Mumbai,169,7
+347,2018,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Jos Buttler,Jaipur,152,3
+348,2019,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Jos Buttler,Kolkata,219,2
+349,2023,Chennai Super Kings,Punjab Kings,Chennai Super Kings,Ravindra Jadeja,Hyderabad,200,3
+350,2022,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,Hardik Pandya,Delhi,200,9
+351,2018,Punjab Kings,Mumbai Indians,Punjab Kings,Shubman Gill,Ahmedabad,182,9
+352,2020,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Rohit Sharma,Bangalore,149,6
+353,2019,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Ravindra Jadeja,Lucknow,207,9
+354,2019,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,Ahmedabad,196,6
+355,2018,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Ravindra Jadeja,Bangalore,172,7
+356,2023,Delhi Capitals,Gujarat Titans,Gujarat Titans,Virat Kohli,Mumbai,154,10
+357,2023,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Jos Buttler,Jaipur,212,8
+358,2021,Chennai Super Kings,Punjab Kings,Chennai Super Kings,MS Dhoni,Mohali,164,3
+359,2021,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Hardik Pandya,Kolkata,162,10
+360,2020,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Jos Buttler,Ahmedabad,223,6
+361,2019,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Rohit Sharma,Hyderabad,173,4
+362,2019,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Ravindra Jadeja,Hyderabad,122,9
+363,2018,Chennai Super Kings,Punjab Kings,Chennai Super Kings,Rishabh Pant,Kolkata,205,2
+364,2022,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,MS Dhoni,Jaipur,238,4
+365,2021,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Virat Kohli,Hyderabad,167,7
+366,2023,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,KL Rahul,Mumbai,124,6
+367,2020,Punjab Kings,Chennai Super Kings,Chennai Super Kings,Rishabh Pant,Mumbai,155,7
+368,2021,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Virat Kohli,Chennai,160,4
+369,2019,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Rohit Sharma,Hyderabad,194,8
+370,2021,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,Hardik Pandya,Mohali,166,4
+371,2023,Gujarat Titans,Chennai Super Kings,Gujarat Titans,Rohit Sharma,Chennai,192,2
+372,2022,Punjab Kings,Rajasthan Royals,Punjab Kings,Hardik Pandya,Jaipur,126,8
+373,2018,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Shubman Gill,Hyderabad,156,3
+374,2018,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,Andre Russell,Delhi,221,10
+375,2019,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Rohit Sharma,Jaipur,165,3
+376,2021,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,MS Dhoni,Kolkata,188,8
+377,2023,Gujarat Titans,Chennai Super Kings,Gujarat Titans,Rishabh Pant,Bangalore,148,3
+378,2020,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Rohit Sharma,Hyderabad,152,10
+379,2018,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Rohit Sharma,Jaipur,199,5
+380,2021,Delhi Capitals,Gujarat Titans,Delhi Capitals,Virat Kohli,Lucknow,173,9
+381,2019,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,Virat Kohli,Lucknow,127,7
+382,2022,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Ravindra Jadeja,Jaipur,154,3
+383,2019,Punjab Kings,Gujarat Titans,Punjab Kings,Ravindra Jadeja,Ahmedabad,185,8
+384,2022,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Ravindra Jadeja,Jaipur,138,4
+385,2020,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,KL Rahul,Chennai,149,2
+386,2022,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,Rishabh Pant,Mumbai,189,6
+387,2022,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Jos Buttler,Ahmedabad,136,8
+388,2022,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Andre Russell,Lucknow,174,7
+389,2022,Gujarat Titans,Mumbai Indians,Gujarat Titans,Shubman Gill,Bangalore,127,7
+390,2022,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,Shubman Gill,Jaipur,132,10
+391,2021,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,MS Dhoni,Kolkata,224,9
+392,2018,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Ravindra Jadeja,Jaipur,172,8
+393,2019,Punjab Kings,Rajasthan Royals,Punjab Kings,Andre Russell,Ahmedabad,187,6
+394,2019,Chennai Super Kings,Punjab Kings,Chennai Super Kings,Andre Russell,Delhi,202,3
+395,2018,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,MS Dhoni,Mohali,222,9
+396,2018,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Ravindra Jadeja,Delhi,226,10
+397,2019,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Andre Russell,Bangalore,145,5
+398,2021,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Ravindra Jadeja,Bangalore,121,9
+399,2018,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Shubman Gill,Mohali,221,7
+400,2022,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,Ravindra Jadeja,Jaipur,218,7
+401,2022,Gujarat Titans,Punjab Kings,Gujarat Titans,Hardik Pandya,Hyderabad,173,9
+402,2019,Punjab Kings,Chennai Super Kings,Punjab Kings,KL Rahul,Mumbai,235,2
+403,2022,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Hardik Pandya,Kolkata,170,6
+404,2021,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Shubman Gill,Mohali,223,6
+405,2019,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,Rishabh Pant,Bangalore,223,8
+406,2021,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Ravindra Jadeja,Hyderabad,172,2
+407,2021,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,MS Dhoni,Kolkata,221,3
+408,2019,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,Andre Russell,Chennai,157,7
+409,2018,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Hardik Pandya,Jaipur,216,8
+410,2019,Lucknow Super Giants,Punjab Kings,Punjab Kings,KL Rahul,Mumbai,195,8
+411,2019,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Hardik Pandya,Mohali,201,8
+412,2019,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Ravindra Jadeja,Delhi,205,6
+413,2019,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,KL Rahul,Kolkata,206,10
+414,2021,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Hardik Pandya,Bangalore,152,6
+415,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Shubman Gill,Mumbai,146,7
+416,2023,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Ravindra Jadeja,Delhi,141,9
+417,2022,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Rohit Sharma,Hyderabad,143,9
+418,2021,Punjab Kings,Chennai Super Kings,Chennai Super Kings,Rishabh Pant,Bangalore,235,6
+419,2021,Punjab Kings,Gujarat Titans,Gujarat Titans,Ravindra Jadeja,Jaipur,147,2
+420,2023,Chennai Super Kings,Gujarat Titans,Gujarat Titans,Ravindra Jadeja,Delhi,147,6
+421,2020,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,Lucknow,195,4
+422,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Shubman Gill,Chennai,205,4
+423,2018,Gujarat Titans,Punjab Kings,Punjab Kings,Rohit Sharma,Ahmedabad,183,5
+424,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Virat Kohli,Bangalore,213,9
+425,2023,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Shubman Gill,Chennai,164,4
+426,2021,Delhi Capitals,Punjab Kings,Delhi Capitals,Virat Kohli,Bangalore,124,10
+427,2018,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Hardik Pandya,Chennai,218,3
+428,2021,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Virat Kohli,Jaipur,209,9
+429,2021,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Hardik Pandya,Ahmedabad,227,6
+430,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,MS Dhoni,Jaipur,126,10
+431,2022,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,Andre Russell,Lucknow,157,6
+432,2018,Punjab Kings,Mumbai Indians,Mumbai Indians,KL Rahul,Jaipur,186,2
+433,2021,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Rohit Sharma,Hyderabad,137,3
+434,2022,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Rishabh Pant,Mumbai,223,7
+435,2021,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,Virat Kohli,Ahmedabad,220,6
+436,2021,Punjab Kings,Delhi Capitals,Delhi Capitals,Rohit Sharma,Hyderabad,203,5
+437,2019,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Hardik Pandya,Mumbai,217,3
+438,2019,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,MS Dhoni,Delhi,237,7
+439,2018,Punjab Kings,Kolkata Knight Riders,Punjab Kings,Jos Buttler,Bangalore,225,3
+440,2021,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Rohit Sharma,Ahmedabad,159,4
+441,2023,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Virat Kohli,Jaipur,156,10
+442,2019,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Ravindra Jadeja,Kolkata,164,2
+443,2020,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,Shubman Gill,Jaipur,183,7
+444,2018,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,Kolkata,223,10
+445,2022,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,Shubman Gill,Kolkata,191,9
+446,2018,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,Andre Russell,Bangalore,181,10
+447,2022,Punjab Kings,Rajasthan Royals,Punjab Kings,KL Rahul,Ahmedabad,229,8
+448,2021,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Ravindra Jadeja,Chennai,237,3
+449,2023,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Jos Buttler,Ahmedabad,167,7
+450,2019,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Hardik Pandya,Mohali,174,2
+451,2019,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Hardik Pandya,Delhi,160,4
+452,2019,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Hardik Pandya,Mohali,130,10
+453,2022,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,Chennai,156,7
+454,2020,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,KL Rahul,Bangalore,171,5
+455,2022,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Rishabh Pant,Mohali,189,4
+456,2020,Punjab Kings,Delhi Capitals,Punjab Kings,MS Dhoni,Chennai,129,8
+457,2023,Chennai Super Kings,Punjab Kings,Punjab Kings,KL Rahul,Lucknow,190,8
+458,2019,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Jos Buttler,Hyderabad,157,6
+459,2022,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Jos Buttler,Mohali,215,5
+460,2021,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Jos Buttler,Chennai,138,3
+461,2023,Mumbai Indians,Punjab Kings,Mumbai Indians,MS Dhoni,Kolkata,120,2
+462,2021,Delhi Capitals,Mumbai Indians,Delhi Capitals,KL Rahul,Ahmedabad,223,10
+463,2021,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Rishabh Pant,Jaipur,226,10
+464,2018,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,KL Rahul,Kolkata,159,4
+465,2022,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Andre Russell,Hyderabad,210,5
+466,2023,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Virat Kohli,Jaipur,133,9
+467,2018,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,KL Rahul,Mumbai,184,10
+468,2023,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Virat Kohli,Chennai,149,10
+469,2020,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Shubman Gill,Delhi,196,5
+470,2018,Gujarat Titans,Chennai Super Kings,Gujarat Titans,KL Rahul,Mumbai,171,6
+471,2021,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,Andre Russell,Bangalore,187,2
+472,2020,Chennai Super Kings,Punjab Kings,Chennai Super Kings,Rishabh Pant,Hyderabad,196,5
+473,2018,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,Jos Buttler,Bangalore,225,9
+474,2020,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,Shubman Gill,Jaipur,187,3
+475,2023,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Rohit Sharma,Ahmedabad,122,5
+476,2022,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,Hardik Pandya,Kolkata,240,3
+477,2018,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,KL Rahul,Bangalore,184,8
+478,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Rohit Sharma,Chennai,240,7
+479,2020,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,Andre Russell,Chennai,202,3
+480,2019,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Hardik Pandya,Lucknow,204,8
+481,2018,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Ravindra Jadeja,Kolkata,142,8
+482,2023,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,Rohit Sharma,Ahmedabad,226,2
+483,2018,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,Virat Kohli,Lucknow,153,8
+484,2023,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Rishabh Pant,Mumbai,225,5
+485,2023,Chennai Super Kings,Punjab Kings,Chennai Super Kings,KL Rahul,Chennai,155,7
+486,2021,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Jos Buttler,Mohali,222,5
+487,2020,Mumbai Indians,Gujarat Titans,Mumbai Indians,Jos Buttler,Chennai,203,2
+488,2020,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,KL Rahul,Kolkata,229,10
+489,2021,Gujarat Titans,Rajasthan Royals,Gujarat Titans,Jos Buttler,Hyderabad,163,3
+490,2021,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,MS Dhoni,Mohali,149,6
+491,2019,Gujarat Titans,Punjab Kings,Gujarat Titans,KL Rahul,Hyderabad,157,2
+492,2018,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Andre Russell,Kolkata,215,10
+493,2021,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Ravindra Jadeja,Mohali,228,3
+494,2018,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Virat Kohli,Kolkata,142,4
+495,2020,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Rohit Sharma,Ahmedabad,156,8
+496,2020,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,KL Rahul,Delhi,120,2
+497,2023,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Ravindra Jadeja,Kolkata,122,8
+498,2022,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Hardik Pandya,Chennai,148,8
+499,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Shubman Gill,Lucknow,133,10
+500,2019,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Andre Russell,Mohali,149,6
+501,2023,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,Jos Buttler,Ahmedabad,187,5
+502,2019,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Virat Kohli,Mohali,132,2
+503,2022,Mumbai Indians,Gujarat Titans,Mumbai Indians,Rishabh Pant,Chennai,190,9
+504,2018,Rajasthan Royals,Punjab Kings,Punjab Kings,Rishabh Pant,Delhi,197,10
+505,2021,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Rohit Sharma,Ahmedabad,142,9
+506,2023,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,Jaipur,216,5
+507,2023,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Ravindra Jadeja,Delhi,173,10
+508,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Hardik Pandya,Hyderabad,214,7
+509,2020,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Shubman Gill,Ahmedabad,167,5
+510,2019,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,KL Rahul,Jaipur,184,8
+511,2022,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Virat Kohli,Kolkata,148,8
+512,2020,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Rohit Sharma,Kolkata,141,8
+513,2020,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Virat Kohli,Mohali,236,9
+514,2018,Delhi Capitals,Punjab Kings,Punjab Kings,Jos Buttler,Mumbai,166,6
+515,2019,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,KL Rahul,Ahmedabad,229,5
+516,2020,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,Shubman Gill,Hyderabad,203,5
+517,2021,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Shubman Gill,Lucknow,137,5
+518,2020,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,KL Rahul,Ahmedabad,189,9
+519,2021,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Shubman Gill,Mumbai,169,7
+520,2020,Punjab Kings,Chennai Super Kings,Chennai Super Kings,Andre Russell,Kolkata,140,10
+521,2018,Gujarat Titans,Delhi Capitals,Gujarat Titans,Jos Buttler,Bangalore,215,10
+522,2022,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Ravindra Jadeja,Hyderabad,140,9
+523,2021,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Andre Russell,Delhi,185,3
+524,2020,Delhi Capitals,Punjab Kings,Delhi Capitals,Rohit Sharma,Kolkata,184,10
+525,2022,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Hardik Pandya,Kolkata,130,5
+526,2021,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,Ahmedabad,195,2
+527,2023,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,Hardik Pandya,Bangalore,189,3
+528,2020,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Hardik Pandya,Chennai,166,10
+529,2019,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,MS Dhoni,Jaipur,189,6
+530,2021,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Ravindra Jadeja,Ahmedabad,228,7
+531,2020,Delhi Capitals,Mumbai Indians,Mumbai Indians,Rohit Sharma,Mumbai,190,7
+532,2019,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,Andre Russell,Hyderabad,225,8
+533,2018,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Rohit Sharma,Hyderabad,213,9
+534,2020,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,Ravindra Jadeja,Lucknow,172,10
+535,2021,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Jos Buttler,Kolkata,180,8
+536,2022,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Rishabh Pant,Lucknow,195,3
+537,2019,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Rishabh Pant,Chennai,220,10
+538,2018,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,Virat Kohli,Ahmedabad,148,5
+539,2022,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,Jos Buttler,Chennai,138,6
+540,2023,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,Lucknow,214,6
+541,2019,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,KL Rahul,Mumbai,218,5
+542,2021,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Shubman Gill,Bangalore,151,9
+543,2018,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Jos Buttler,Jaipur,134,5
+544,2019,Rajasthan Royals,Mumbai Indians,Mumbai Indians,MS Dhoni,Delhi,129,7
+545,2022,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Andre Russell,Delhi,174,2
+546,2021,Gujarat Titans,Mumbai Indians,Gujarat Titans,KL Rahul,Bangalore,220,10
+547,2019,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,MS Dhoni,Chennai,199,3
+548,2020,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Virat Kohli,Hyderabad,191,10
+549,2020,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,Hardik Pandya,Ahmedabad,186,2
+550,2018,Kolkata Knight Riders,Punjab Kings,Punjab Kings,Rohit Sharma,Jaipur,158,6
+551,2018,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,Andre Russell,Bangalore,177,6
+552,2021,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,KL Rahul,Delhi,134,8
+553,2023,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,Ravindra Jadeja,Kolkata,185,9
+554,2022,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Rohit Sharma,Mumbai,194,2
+555,2020,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Jos Buttler,Lucknow,239,6
+556,2023,Chennai Super Kings,Punjab Kings,Punjab Kings,Ravindra Jadeja,Mohali,223,4
+557,2022,Gujarat Titans,Mumbai Indians,Gujarat Titans,KL Rahul,Mohali,226,9
+558,2022,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,KL Rahul,Mumbai,180,9
+559,2018,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Jos Buttler,Bangalore,126,10
+560,2021,Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,Ravindra Jadeja,Mumbai,174,2
+561,2022,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Ravindra Jadeja,Delhi,197,5
+562,2019,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,Rohit Sharma,Ahmedabad,174,7
+563,2022,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,MS Dhoni,Ahmedabad,163,3
+564,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Rishabh Pant,Lucknow,204,2
+565,2020,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Hardik Pandya,Delhi,232,9
+566,2018,Lucknow Super Giants,Punjab Kings,Punjab Kings,Jos Buttler,Bangalore,207,10
+567,2022,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Rishabh Pant,Kolkata,206,7
+568,2023,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,MS Dhoni,Jaipur,153,6
+569,2020,Delhi Capitals,Punjab Kings,Punjab Kings,KL Rahul,Mumbai,208,7
+570,2021,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,KL Rahul,Kolkata,183,4
+571,2018,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Ravindra Jadeja,Delhi,224,6
+572,2019,Chennai Super Kings,Delhi Capitals,Delhi Capitals,Rohit Sharma,Mumbai,225,5
+573,2022,Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,Shubman Gill,Mumbai,191,2
+574,2019,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,KL Rahul,Jaipur,171,5
+575,2022,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,MS Dhoni,Jaipur,125,2
+576,2022,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,Ravindra Jadeja,Ahmedabad,120,7
+577,2022,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,KL Rahul,Ahmedabad,167,4
+578,2022,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,MS Dhoni,Mohali,120,5
+579,2023,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Rohit Sharma,Mohali,222,8
+580,2023,Gujarat Titans,Delhi Capitals,Gujarat Titans,KL Rahul,Kolkata,215,6
+581,2021,Mumbai Indians,Gujarat Titans,Mumbai Indians,Virat Kohli,Hyderabad,171,2
+582,2018,Punjab Kings,Mumbai Indians,Mumbai Indians,Ravindra Jadeja,Lucknow,232,9
+583,2018,Mumbai Indians,Gujarat Titans,Gujarat Titans,Shubman Gill,Hyderabad,168,10
+584,2023,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Hardik Pandya,Ahmedabad,173,8
+585,2023,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Andre Russell,Kolkata,236,4
+586,2021,Delhi Capitals,Mumbai Indians,Mumbai Indians,Rohit Sharma,Kolkata,133,7
+587,2023,Punjab Kings,Rajasthan Royals,Punjab Kings,Rishabh Pant,Mohali,203,7
+588,2022,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Hardik Pandya,Mumbai,239,6
+589,2022,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Hardik Pandya,Hyderabad,154,9
+590,2022,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Andre Russell,Hyderabad,201,8
+591,2018,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Rishabh Pant,Lucknow,131,4
+592,2022,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Andre Russell,Jaipur,196,7
+593,2018,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,Shubman Gill,Hyderabad,164,8
+594,2020,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Virat Kohli,Lucknow,149,2
+595,2023,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Rishabh Pant,Hyderabad,186,5
+596,2023,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,Virat Kohli,Kolkata,187,10
+597,2023,Gujarat Titans,Chennai Super Kings,Gujarat Titans,KL Rahul,Lucknow,170,4
+598,2018,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,KL Rahul,Hyderabad,219,6
+599,2019,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Virat Kohli,Delhi,124,10
+600,2018,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,MS Dhoni,Bangalore,163,5
+601,2018,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,KL Rahul,Mohali,237,10
+602,2023,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,Virat Kohli,Mumbai,202,4
+603,2020,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Andre Russell,Ahmedabad,124,4
+604,2018,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,KL Rahul,Hyderabad,191,3
+605,2022,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,Hardik Pandya,Mohali,231,10
+606,2020,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,KL Rahul,Mohali,195,2
+607,2019,Gujarat Titans,Rajasthan Royals,Gujarat Titans,KL Rahul,Mohali,208,2
+608,2022,Delhi Capitals,Gujarat Titans,Gujarat Titans,Rishabh Pant,Delhi,138,10
+609,2022,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Rishabh Pant,Lucknow,164,8
+610,2021,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Shubman Gill,Hyderabad,231,8
+611,2021,Mumbai Indians,Gujarat Titans,Gujarat Titans,Rohit Sharma,Mohali,173,9
+612,2019,Delhi Capitals,Punjab Kings,Delhi Capitals,Rishabh Pant,Bangalore,238,9
+613,2020,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,Shubman Gill,Mumbai,143,4
+614,2020,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Andre Russell,Delhi,202,10
+615,2022,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,MS Dhoni,Hyderabad,125,3
+616,2018,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Shubman Gill,Ahmedabad,141,6
+617,2021,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,MS Dhoni,Delhi,170,10
+618,2018,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,Virat Kohli,Ahmedabad,180,6
+619,2022,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,Jos Buttler,Mohali,171,5
+620,2023,Delhi Capitals,Gujarat Titans,Gujarat Titans,KL Rahul,Jaipur,180,7
+621,2018,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,Shubman Gill,Lucknow,229,2
+622,2018,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,MS Dhoni,Mumbai,211,8
+623,2022,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,Kolkata,231,9
+624,2018,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,KL Rahul,Mumbai,175,10
+625,2018,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,Kolkata,155,2
+626,2018,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Jos Buttler,Bangalore,160,7
+627,2023,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Rohit Sharma,Hyderabad,179,4
+628,2021,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Andre Russell,Chennai,167,3
+629,2019,Punjab Kings,Mumbai Indians,Mumbai Indians,MS Dhoni,Bangalore,239,4
+630,2020,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,Mumbai,151,3
+631,2019,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,KL Rahul,Ahmedabad,136,2
+632,2023,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Ravindra Jadeja,Jaipur,153,8
+633,2020,Chennai Super Kings,Mumbai Indians,Mumbai Indians,KL Rahul,Mohali,236,8
+634,2019,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Hardik Pandya,Ahmedabad,169,7
+635,2020,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,Jos Buttler,Hyderabad,121,9
+636,2018,Lucknow Super Giants,Royal Challengers Bangalore,Lucknow Super Giants,Hardik Pandya,Delhi,236,3
+637,2019,Punjab Kings,Gujarat Titans,Punjab Kings,MS Dhoni,Lucknow,160,2
+638,2019,Mumbai Indians,Delhi Capitals,Mumbai Indians,Virat Kohli,Delhi,208,2
+639,2020,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,Chennai,211,2
+640,2020,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Ravindra Jadeja,Mumbai,237,7
+641,2019,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Andre Russell,Hyderabad,146,3
+642,2023,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Rohit Sharma,Lucknow,165,3
+643,2019,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Ravindra Jadeja,Bangalore,239,7
+644,2020,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,KL Rahul,Bangalore,127,8
+645,2022,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,MS Dhoni,Mumbai,129,7
+646,2018,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,MS Dhoni,Kolkata,226,8
+647,2022,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Rohit Sharma,Jaipur,227,7
+648,2018,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Virat Kohli,Bangalore,158,10
+649,2022,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,MS Dhoni,Lucknow,202,10
+650,2021,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Rohit Sharma,Mumbai,120,6
+651,2020,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,Rishabh Pant,Lucknow,200,10
+652,2018,Delhi Capitals,Mumbai Indians,Delhi Capitals,Andre Russell,Jaipur,125,10
+653,2018,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,Andre Russell,Lucknow,135,3
+654,2020,Rajasthan Royals,Mumbai Indians,Mumbai Indians,MS Dhoni,Bangalore,226,9
+655,2019,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,KL Rahul,Ahmedabad,221,9
+656,2022,Gujarat Titans,Punjab Kings,Gujarat Titans,Shubman Gill,Bangalore,147,3
+657,2021,Punjab Kings,Lucknow Super Giants,Punjab Kings,Jos Buttler,Delhi,163,3
+658,2023,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Rishabh Pant,Jaipur,237,4
+659,2018,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Ravindra Jadeja,Mumbai,235,8
+660,2022,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Rishabh Pant,Kolkata,151,6
+661,2021,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Ravindra Jadeja,Chennai,183,10
+662,2019,Punjab Kings,Gujarat Titans,Punjab Kings,MS Dhoni,Hyderabad,122,4
+663,2018,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Jos Buttler,Delhi,129,6
+664,2022,Punjab Kings,Mumbai Indians,Punjab Kings,MS Dhoni,Chennai,128,2
+665,2020,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Ravindra Jadeja,Delhi,139,9
+666,2023,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,Kolkata,156,9
+667,2021,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Ravindra Jadeja,Chennai,232,6
+668,2018,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Andre Russell,Delhi,145,8
+669,2020,Rajasthan Royals,Punjab Kings,Punjab Kings,Virat Kohli,Jaipur,194,4
+670,2021,Punjab Kings,Chennai Super Kings,Chennai Super Kings,Andre Russell,Delhi,166,5
+671,2021,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,KL Rahul,Jaipur,122,5
+672,2018,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,Shubman Gill,Bangalore,142,10
+673,2022,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Rishabh Pant,Jaipur,208,10
+674,2023,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Andre Russell,Lucknow,166,3
+675,2020,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Jos Buttler,Lucknow,124,7
+676,2021,Mumbai Indians,Punjab Kings,Punjab Kings,MS Dhoni,Mumbai,208,7
+677,2022,Mumbai Indians,Gujarat Titans,Gujarat Titans,Jos Buttler,Mohali,162,9
+678,2022,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Shubman Gill,Mohali,121,5
+679,2020,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Andre Russell,Kolkata,163,2
+680,2022,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Ravindra Jadeja,Chennai,144,3
+681,2021,Punjab Kings,Rajasthan Royals,Punjab Kings,MS Dhoni,Mumbai,204,6
+682,2021,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Virat Kohli,Mohali,136,2
+683,2019,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Hardik Pandya,Chennai,122,7
+684,2018,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Andre Russell,Hyderabad,136,10
+685,2020,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Hardik Pandya,Lucknow,215,7
+686,2019,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,KL Rahul,Lucknow,179,6
+687,2019,Punjab Kings,Rajasthan Royals,Rajasthan Royals,KL Rahul,Delhi,185,7
+688,2018,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,MS Dhoni,Lucknow,172,9
+689,2022,Gujarat Titans,Mumbai Indians,Gujarat Titans,Rohit Sharma,Hyderabad,147,2
+690,2020,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,Hyderabad,165,10
+691,2018,Chennai Super Kings,Delhi Capitals,Delhi Capitals,Virat Kohli,Jaipur,137,7
+692,2023,Mumbai Indians,Delhi Capitals,Delhi Capitals,Ravindra Jadeja,Chennai,221,8
+693,2023,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Andre Russell,Lucknow,198,10
+694,2019,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Ravindra Jadeja,Hyderabad,209,10
+695,2022,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,MS Dhoni,Chennai,167,2
+696,2019,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,MS Dhoni,Ahmedabad,180,10
+697,2022,Gujarat Titans,Delhi Capitals,Gujarat Titans,Ravindra Jadeja,Hyderabad,120,8
+698,2023,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,Andre Russell,Jaipur,239,7
+699,2020,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,Andre Russell,Delhi,161,6
+700,2021,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,Jaipur,146,3
+701,2023,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Andre Russell,Hyderabad,166,5
+702,2020,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Ravindra Jadeja,Ahmedabad,127,4
+703,2023,Mumbai Indians,Punjab Kings,Mumbai Indians,Rishabh Pant,Mohali,169,3
+704,2021,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,Kolkata,236,6
+705,2020,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,MS Dhoni,Bangalore,143,6
+706,2018,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Rishabh Pant,Delhi,209,4
+707,2022,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,Lucknow,188,5
+708,2020,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Rohit Sharma,Chennai,196,9
+709,2019,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Ravindra Jadeja,Delhi,224,8
+710,2022,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Rishabh Pant,Mumbai,146,9
+711,2020,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,Ravindra Jadeja,Ahmedabad,157,5
+712,2020,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Andre Russell,Lucknow,231,5
+713,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,Bangalore,172,6
+714,2018,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Ravindra Jadeja,Mohali,228,7
+715,2023,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Jos Buttler,Jaipur,175,10
+716,2023,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Rishabh Pant,Hyderabad,168,2
+717,2023,Gujarat Titans,Chennai Super Kings,Gujarat Titans,Virat Kohli,Chennai,214,8
+718,2022,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,Andre Russell,Lucknow,168,9
+719,2022,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,Hyderabad,189,8
+720,2020,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Andre Russell,Hyderabad,205,7
+721,2018,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Shubman Gill,Chennai,218,7
+722,2020,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Andre Russell,Bangalore,169,7
+723,2022,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Shubman Gill,Delhi,149,4
+724,2022,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,MS Dhoni,Hyderabad,166,7
+725,2022,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Shubman Gill,Kolkata,218,7
+726,2022,Kolkata Knight Riders,Punjab Kings,Punjab Kings,Andre Russell,Chennai,144,10
+727,2020,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Virat Kohli,Jaipur,230,5
+728,2023,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,MS Dhoni,Delhi,152,2
+729,2018,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Hardik Pandya,Lucknow,182,3
+730,2023,Gujarat Titans,Punjab Kings,Gujarat Titans,Virat Kohli,Chennai,236,9
+731,2020,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Virat Kohli,Lucknow,182,8
+732,2021,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,Virat Kohli,Delhi,216,3
+733,2020,Mumbai Indians,Gujarat Titans,Gujarat Titans,Hardik Pandya,Hyderabad,159,8
+734,2021,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Andre Russell,Mohali,156,10
+735,2021,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,MS Dhoni,Bangalore,130,7
+736,2019,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,KL Rahul,Chennai,175,3
+737,2019,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Ravindra Jadeja,Kolkata,226,8
+738,2020,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Jos Buttler,Kolkata,217,6
+739,2023,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,MS Dhoni,Lucknow,137,10
+740,2022,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,Ahmedabad,157,8
+741,2019,Rajasthan Royals,Gujarat Titans,Gujarat Titans,Ravindra Jadeja,Mohali,228,3
+742,2021,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Rohit Sharma,Jaipur,160,3
+743,2018,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,Ahmedabad,182,9
+744,2021,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,MS Dhoni,Chennai,150,9
+745,2020,Delhi Capitals,Mumbai Indians,Delhi Capitals,Hardik Pandya,Delhi,194,6
+746,2022,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,Ravindra Jadeja,Hyderabad,130,7
+747,2020,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Andre Russell,Lucknow,133,8
+748,2018,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,Ahmedabad,239,6
+749,2019,Chennai Super Kings,Gujarat Titans,Gujarat Titans,MS Dhoni,Hyderabad,212,10
+750,2020,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Ravindra Jadeja,Jaipur,151,8
+751,2019,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,Rishabh Pant,Mohali,227,2
+752,2020,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,Hyderabad,180,10
+753,2019,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,MS Dhoni,Mohali,128,2
+754,2020,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,MS Dhoni,Ahmedabad,151,4
+755,2022,Gujarat Titans,Delhi Capitals,Gujarat Titans,Rishabh Pant,Jaipur,165,8
+756,2021,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,Rishabh Pant,Lucknow,181,9
+757,2022,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,Lucknow,234,6
+758,2022,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,KL Rahul,Mohali,183,4
+759,2021,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Virat Kohli,Ahmedabad,212,9
+760,2020,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Rishabh Pant,Delhi,224,2
+761,2018,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,KL Rahul,Kolkata,154,5
+762,2018,Chennai Super Kings,Gujarat Titans,Gujarat Titans,Jos Buttler,Hyderabad,196,8
+763,2020,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,Ahmedabad,140,3
+764,2019,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,KL Rahul,Lucknow,162,8
+765,2022,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Virat Kohli,Mohali,213,9
+766,2023,Rajasthan Royals,Punjab Kings,Punjab Kings,MS Dhoni,Kolkata,134,10
+767,2021,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,Rishabh Pant,Jaipur,240,6
+768,2021,Mumbai Indians,Gujarat Titans,Mumbai Indians,Ravindra Jadeja,Kolkata,189,4
+769,2022,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Shubman Gill,Delhi,229,6
+770,2020,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Virat Kohli,Jaipur,171,6
+771,2023,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,Rohit Sharma,Lucknow,193,6
+772,2018,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Rishabh Pant,Lucknow,128,8
+773,2020,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,Hyderabad,121,7
+774,2023,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,Bangalore,180,10
+775,2023,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Andre Russell,Chennai,188,4
+776,2019,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Ravindra Jadeja,Mohali,146,8
+777,2020,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Shubman Gill,Ahmedabad,122,3
+778,2022,Chennai Super Kings,Gujarat Titans,Gujarat Titans,MS Dhoni,Bangalore,140,8
+779,2022,Gujarat Titans,Chennai Super Kings,Gujarat Titans,Andre Russell,Bangalore,120,4
+780,2019,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,KL Rahul,Mumbai,169,5
+781,2019,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Virat Kohli,Kolkata,192,7
+782,2019,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,KL Rahul,Bangalore,126,6
+783,2022,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Shubman Gill,Delhi,214,5
+784,2020,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,KL Rahul,Ahmedabad,130,7
+785,2019,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Jos Buttler,Jaipur,129,6
+786,2020,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,Andre Russell,Hyderabad,139,3
+787,2023,Chennai Super Kings,Punjab Kings,Chennai Super Kings,MS Dhoni,Kolkata,126,6
+788,2022,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Shubman Gill,Delhi,142,5
+789,2023,Chennai Super Kings,Delhi Capitals,Delhi Capitals,Andre Russell,Bangalore,137,8
+790,2023,Punjab Kings,Chennai Super Kings,Chennai Super Kings,MS Dhoni,Delhi,148,7
+791,2019,Punjab Kings,Gujarat Titans,Gujarat Titans,Andre Russell,Bangalore,219,2
+792,2021,Chennai Super Kings,Delhi Capitals,Delhi Capitals,MS Dhoni,Delhi,135,2
+793,2018,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Ravindra Jadeja,Hyderabad,178,9
+794,2019,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Jos Buttler,Delhi,230,4
+795,2018,Gujarat Titans,Delhi Capitals,Gujarat Titans,Hardik Pandya,Delhi,187,10
+796,2018,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Shubman Gill,Delhi,214,2
+797,2020,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Rishabh Pant,Bangalore,135,6
+798,2019,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Shubman Gill,Lucknow,189,2
+799,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,Hyderabad,237,9
+800,2019,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Jos Buttler,Mohali,203,6
+801,2020,Chennai Super Kings,Gujarat Titans,Gujarat Titans,KL Rahul,Ahmedabad,197,4
+802,2021,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,MS Dhoni,Mohali,121,9
+803,2021,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Shubman Gill,Hyderabad,149,9
+804,2022,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,Hardik Pandya,Hyderabad,225,7
+805,2019,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Shubman Gill,Lucknow,163,8
+806,2020,Chennai Super Kings,Delhi Capitals,Delhi Capitals,Rishabh Pant,Mumbai,205,3
+807,2023,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Jos Buttler,Ahmedabad,221,2
+808,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Rishabh Pant,Lucknow,130,8
+809,2018,Lucknow Super Giants,Royal Challengers Bangalore,Lucknow Super Giants,Virat Kohli,Mumbai,205,8
+810,2022,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,Chennai,183,9
+811,2019,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Hardik Pandya,Chennai,221,10
+812,2018,Punjab Kings,Delhi Capitals,Punjab Kings,Andre Russell,Ahmedabad,227,8
+813,2022,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Rohit Sharma,Delhi,232,6
+814,2022,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Hardik Pandya,Lucknow,238,6
+815,2019,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Shubman Gill,Jaipur,233,2
+816,2022,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,Rohit Sharma,Hyderabad,151,6
+817,2021,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Jos Buttler,Bangalore,238,5
+818,2022,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,Hyderabad,202,2
+819,2018,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Ravindra Jadeja,Lucknow,229,3
+820,2020,Mumbai Indians,Gujarat Titans,Gujarat Titans,Hardik Pandya,Mumbai,176,4
+821,2023,Punjab Kings,Rajasthan Royals,Rajasthan Royals,KL Rahul,Ahmedabad,164,3
+822,2018,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Virat Kohli,Ahmedabad,159,7
+823,2018,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Virat Kohli,Kolkata,230,5
+824,2018,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,Hardik Pandya,Lucknow,160,3
+825,2023,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Andre Russell,Kolkata,197,9
+826,2019,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,Andre Russell,Kolkata,207,10
+827,2022,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,MS Dhoni,Delhi,221,2
+828,2021,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,MS Dhoni,Mohali,161,3
+829,2018,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Hardik Pandya,Jaipur,239,10
+830,2020,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Rohit Sharma,Bangalore,192,4
+831,2018,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,Hardik Pandya,Mohali,154,6
+832,2020,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Hardik Pandya,Ahmedabad,222,6
+833,2018,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Jos Buttler,Mohali,208,5
+834,2021,Punjab Kings,Rajasthan Royals,Rajasthan Royals,KL Rahul,Jaipur,180,6
+835,2020,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Hardik Pandya,Bangalore,167,9
+836,2022,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Hardik Pandya,Bangalore,223,10
+837,2020,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Ravindra Jadeja,Jaipur,181,9
+838,2020,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Shubman Gill,Kolkata,215,9
+839,2018,Kolkata Knight Riders,Punjab Kings,Punjab Kings,Rohit Sharma,Hyderabad,129,8
+840,2020,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,Rishabh Pant,Bangalore,182,4
+841,2022,Punjab Kings,Lucknow Super Giants,Punjab Kings,Virat Kohli,Mumbai,195,7
+842,2019,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Hardik Pandya,Bangalore,215,9
+843,2021,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,MS Dhoni,Hyderabad,186,5
+844,2018,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,Andre Russell,Jaipur,163,9
+845,2022,Punjab Kings,Gujarat Titans,Gujarat Titans,Shubman Gill,Mumbai,208,6
+846,2022,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Hardik Pandya,Lucknow,121,3
+847,2018,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Andre Russell,Lucknow,170,7
+848,2023,Mumbai Indians,Gujarat Titans,Gujarat Titans,Virat Kohli,Mumbai,168,5
+849,2020,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,Andre Russell,Lucknow,199,7
+850,2019,Gujarat Titans,Delhi Capitals,Delhi Capitals,Jos Buttler,Chennai,193,7
+851,2020,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,KL Rahul,Mohali,176,2
+852,2022,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,Jos Buttler,Kolkata,187,9
+853,2023,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,Hyderabad,209,7
+854,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Ravindra Jadeja,Lucknow,121,5
+855,2020,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,Rishabh Pant,Jaipur,184,9
+856,2019,Gujarat Titans,Delhi Capitals,Delhi Capitals,Virat Kohli,Hyderabad,203,2
+857,2022,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Shubman Gill,Bangalore,226,7
+858,2020,Punjab Kings,Lucknow Super Giants,Punjab Kings,Hardik Pandya,Chennai,155,10
+859,2019,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Jos Buttler,Delhi,131,6
+860,2020,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,KL Rahul,Jaipur,159,2
+861,2018,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Ravindra Jadeja,Mumbai,152,7
+862,2019,Lucknow Super Giants,Royal Challengers Bangalore,Lucknow Super Giants,Andre Russell,Ahmedabad,214,10
+863,2023,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Andre Russell,Kolkata,120,3
+864,2018,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Ravindra Jadeja,Lucknow,134,9
+865,2019,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Rishabh Pant,Hyderabad,231,10
+866,2022,Punjab Kings,Delhi Capitals,Punjab Kings,Andre Russell,Kolkata,195,9
+867,2022,Punjab Kings,Chennai Super Kings,Punjab Kings,Virat Kohli,Kolkata,129,2
+868,2020,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,MS Dhoni,Jaipur,228,7
+869,2021,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Jos Buttler,Jaipur,154,10
+870,2018,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,Rishabh Pant,Mumbai,130,6
+871,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Rishabh Pant,Mumbai,234,10
+872,2023,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,KL Rahul,Bangalore,225,9
+873,2018,Gujarat Titans,Rajasthan Royals,Gujarat Titans,Shubman Gill,Bangalore,199,6
+874,2018,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Andre Russell,Kolkata,143,6
+875,2023,Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,Rishabh Pant,Ahmedabad,208,5
+876,2020,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Jos Buttler,Kolkata,186,10
+877,2019,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Jos Buttler,Mohali,167,9
+878,2019,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,Shubman Gill,Ahmedabad,222,4
+879,2023,Gujarat Titans,Delhi Capitals,Delhi Capitals,Rohit Sharma,Mohali,170,9
+880,2019,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Jos Buttler,Kolkata,237,7
+881,2023,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,Hardik Pandya,Lucknow,137,6
+882,2019,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,Rishabh Pant,Delhi,210,7
+883,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Virat Kohli,Bangalore,128,6
+884,2023,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Hardik Pandya,Kolkata,132,8
+885,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,MS Dhoni,Chennai,160,9
+886,2020,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Rishabh Pant,Delhi,123,9
+887,2018,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Rohit Sharma,Chennai,208,10
+888,2023,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Shubman Gill,Ahmedabad,216,4
+889,2020,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Rishabh Pant,Chennai,133,2
+890,2019,Gujarat Titans,Chennai Super Kings,Gujarat Titans,Hardik Pandya,Kolkata,138,9
+891,2019,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Hardik Pandya,Hyderabad,202,3
+892,2021,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,MS Dhoni,Kolkata,128,2
+893,2018,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Jos Buttler,Mohali,126,10
+894,2021,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,KL Rahul,Chennai,157,7
+895,2021,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,KL Rahul,Bangalore,195,4
+896,2021,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,Andre Russell,Bangalore,224,5
+897,2021,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Shubman Gill,Kolkata,161,2
+898,2018,Gujarat Titans,Punjab Kings,Punjab Kings,Virat Kohli,Mumbai,138,4
+899,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Rishabh Pant,Mohali,208,3
+900,2021,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Jos Buttler,Mohali,229,9
+901,2022,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Rishabh Pant,Ahmedabad,162,6
+902,2018,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,Rohit Sharma,Ahmedabad,130,8
+903,2021,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Jos Buttler,Chennai,183,6
+904,2021,Mumbai Indians,Gujarat Titans,Gujarat Titans,Rohit Sharma,Jaipur,175,8
+905,2021,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,Shubman Gill,Kolkata,149,9
+906,2022,Punjab Kings,Delhi Capitals,Punjab Kings,KL Rahul,Bangalore,234,2
+907,2023,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Jos Buttler,Lucknow,240,2
+908,2018,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Virat Kohli,Mohali,168,6
+909,2018,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Jos Buttler,Lucknow,200,6
+910,2023,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Rishabh Pant,Kolkata,152,6
+911,2021,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,Virat Kohli,Jaipur,239,9
+912,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Ravindra Jadeja,Kolkata,123,6
+913,2022,Delhi Capitals,Mumbai Indians,Mumbai Indians,Virat Kohli,Kolkata,182,3
+914,2023,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Rishabh Pant,Bangalore,202,6
+915,2022,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Ravindra Jadeja,Delhi,125,7
+916,2020,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Andre Russell,Delhi,237,7
+917,2022,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Ravindra Jadeja,Jaipur,124,8
+918,2023,Punjab Kings,Kolkata Knight Riders,Punjab Kings,Hardik Pandya,Lucknow,231,6
+919,2022,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Ravindra Jadeja,Lucknow,186,10
+920,2020,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Virat Kohli,Bangalore,120,6
+921,2023,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Rohit Sharma,Kolkata,214,8
+922,2020,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,Shubman Gill,Jaipur,234,4
+923,2020,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Andre Russell,Mohali,167,9
+924,2021,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,Mumbai,131,8
+925,2023,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Andre Russell,Kolkata,178,3
+926,2019,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Rishabh Pant,Mohali,232,5
+927,2019,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Ravindra Jadeja,Jaipur,216,3
+928,2020,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Rohit Sharma,Delhi,124,9
+929,2018,Gujarat Titans,Mumbai Indians,Gujarat Titans,Rishabh Pant,Hyderabad,188,8
+930,2018,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,Shubman Gill,Hyderabad,163,3
+931,2019,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,Jos Buttler,Kolkata,147,3
+932,2018,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Rishabh Pant,Kolkata,229,2
+933,2022,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,KL Rahul,Kolkata,191,7
+934,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Rohit Sharma,Mumbai,212,4
+935,2022,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Virat Kohli,Ahmedabad,149,4
+936,2023,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Rohit Sharma,Delhi,147,9
+937,2019,Punjab Kings,Mumbai Indians,Punjab Kings,Rishabh Pant,Kolkata,157,7
+938,2021,Lucknow Super Giants,Punjab Kings,Punjab Kings,KL Rahul,Jaipur,159,2
+939,2022,Gujarat Titans,Punjab Kings,Punjab Kings,Virat Kohli,Lucknow,159,2
+940,2018,Punjab Kings,Gujarat Titans,Punjab Kings,Andre Russell,Chennai,135,7
+941,2018,Chennai Super Kings,Delhi Capitals,Delhi Capitals,Hardik Pandya,Hyderabad,125,3
+942,2023,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,Andre Russell,Delhi,176,2
+943,2023,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Hardik Pandya,Mumbai,236,3
+944,2021,Mumbai Indians,Gujarat Titans,Mumbai Indians,MS Dhoni,Kolkata,221,8
+945,2021,Mumbai Indians,Delhi Capitals,Delhi Capitals,Andre Russell,Ahmedabad,214,6
+946,2019,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,Hardik Pandya,Delhi,130,3
+947,2023,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Rohit Sharma,Delhi,231,2
+948,2023,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Jos Buttler,Lucknow,229,3
+949,2018,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,KL Rahul,Bangalore,135,3
+950,2018,Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,Andre Russell,Delhi,188,8
+951,2022,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,KL Rahul,Chennai,226,4
+952,2020,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Shubman Gill,Jaipur,240,3
+953,2023,Mumbai Indians,Delhi Capitals,Mumbai Indians,Shubman Gill,Hyderabad,146,4
+954,2018,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,MS Dhoni,Chennai,224,9
+955,2020,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,MS Dhoni,Hyderabad,136,6
+956,2018,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Shubman Gill,Lucknow,161,7
+957,2018,Gujarat Titans,Mumbai Indians,Mumbai Indians,Rohit Sharma,Hyderabad,175,5
+958,2022,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Shubman Gill,Chennai,237,4
+959,2019,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Shubman Gill,Hyderabad,227,7
+960,2020,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,Rohit Sharma,Ahmedabad,156,2
+961,2019,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Virat Kohli,Mumbai,163,8
+962,2023,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Shubman Gill,Mumbai,197,4
+963,2023,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,Andre Russell,Jaipur,235,5
+964,2019,Mumbai Indians,Punjab Kings,Mumbai Indians,Andre Russell,Mumbai,150,9
+965,2021,Delhi Capitals,Chennai Super Kings,Delhi Capitals,MS Dhoni,Lucknow,134,3
+966,2019,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,KL Rahul,Mumbai,190,6
+967,2019,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,Ravindra Jadeja,Lucknow,152,9
+968,2020,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Shubman Gill,Bangalore,199,2
+969,2019,Rajasthan Royals,Gujarat Titans,Gujarat Titans,Shubman Gill,Kolkata,169,3
+970,2021,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Hardik Pandya,Jaipur,147,9
+971,2018,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Rohit Sharma,Kolkata,133,7
+972,2023,Rajasthan Royals,Gujarat Titans,Gujarat Titans,Andre Russell,Bangalore,198,6
+973,2020,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Andre Russell,Lucknow,225,8
+974,2018,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,KL Rahul,Bangalore,194,2
+975,2022,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Rishabh Pant,Jaipur,214,9
+976,2019,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,KL Rahul,Chennai,176,2
+977,2022,Kolkata Knight Riders,Punjab Kings,Punjab Kings,Rishabh Pant,Bangalore,146,7
+978,2019,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Shubman Gill,Delhi,194,5
+979,2019,Mumbai Indians,Punjab Kings,Mumbai Indians,Hardik Pandya,Jaipur,202,2
+980,2021,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,Ravindra Jadeja,Chennai,134,3
+981,2022,Mumbai Indians,Delhi Capitals,Delhi Capitals,Andre Russell,Chennai,215,5
+982,2018,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Hardik Pandya,Chennai,208,3
+983,2018,Punjab Kings,Delhi Capitals,Punjab Kings,Rohit Sharma,Delhi,226,2
+984,2019,Rajasthan Royals,Punjab Kings,Punjab Kings,Andre Russell,Mumbai,139,9
+985,2022,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,KL Rahul,Hyderabad,141,4
+986,2020,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Rishabh Pant,Chennai,236,8
+987,2021,Mumbai Indians,Punjab Kings,Punjab Kings,Ravindra Jadeja,Mohali,184,7
+988,2018,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,Jos Buttler,Jaipur,144,8
+989,2023,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,Jos Buttler,Bangalore,147,10
+990,2021,Punjab Kings,Delhi Capitals,Delhi Capitals,MS Dhoni,Jaipur,125,4
+991,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Shubman Gill,Hyderabad,226,4
+992,2023,Chennai Super Kings,Punjab Kings,Punjab Kings,Andre Russell,Hyderabad,174,3
+993,2022,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,MS Dhoni,Hyderabad,169,5
+994,2018,Delhi Capitals,Gujarat Titans,Delhi Capitals,Rohit Sharma,Jaipur,161,7
+995,2023,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Rohit Sharma,Delhi,201,6
+996,2018,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Rishabh Pant,Chennai,138,4
+997,2020,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,MS Dhoni,Lucknow,155,2
+998,2019,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Andre Russell,Jaipur,132,2
+999,2021,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,MS Dhoni,Kolkata,130,7
+1000,2022,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Shubman Gill,Hyderabad,153,5
+1001,2019,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Rohit Sharma,Chennai,238,3
+1002,2018,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,MS Dhoni,Ahmedabad,203,9
+1003,2023,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Andre Russell,Jaipur,220,4
+1004,2023,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Virat Kohli,Kolkata,153,7
+1005,2023,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Shubman Gill,Kolkata,155,3
+1006,2023,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Jos Buttler,Jaipur,131,4
+1007,2020,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Ravindra Jadeja,Delhi,167,7
+1008,2021,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Rohit Sharma,Hyderabad,157,5
+1009,2019,Gujarat Titans,Delhi Capitals,Delhi Capitals,Rohit Sharma,Mumbai,166,9
+1010,2021,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Rishabh Pant,Mohali,156,10
+1011,2020,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,Jos Buttler,Ahmedabad,214,3
+1012,2020,Mumbai Indians,Punjab Kings,Punjab Kings,Virat Kohli,Ahmedabad,211,5
+1013,2022,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,Jos Buttler,Delhi,226,7
+1014,2021,Delhi Capitals,Punjab Kings,Punjab Kings,MS Dhoni,Ahmedabad,120,8
+1015,2018,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Hardik Pandya,Ahmedabad,174,5
+1016,2022,Lucknow Super Giants,Royal Challengers Bangalore,Lucknow Super Giants,Virat Kohli,Delhi,212,4
+1017,2020,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Rishabh Pant,Ahmedabad,139,5
+1018,2020,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,MS Dhoni,Mumbai,169,3
+1019,2019,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,Ravindra Jadeja,Chennai,167,9
+1020,2022,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,KL Rahul,Ahmedabad,230,9
+1021,2021,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Hardik Pandya,Delhi,207,5
+1022,2022,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,Ahmedabad,140,10
+1023,2018,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Rishabh Pant,Ahmedabad,189,10
+1024,2019,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,KL Rahul,Ahmedabad,187,5
+1025,2021,Punjab Kings,Chennai Super Kings,Punjab Kings,Jos Buttler,Jaipur,165,6
+1026,2019,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Ravindra Jadeja,Lucknow,194,7
+1027,2022,Punjab Kings,Gujarat Titans,Gujarat Titans,Shubman Gill,Mumbai,191,7
+1028,2020,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,Rishabh Pant,Lucknow,185,5
+1029,2022,Lucknow Super Giants,Punjab Kings,Punjab Kings,KL Rahul,Chennai,128,6
+1030,2022,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,MS Dhoni,Kolkata,240,9
+1031,2021,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,KL Rahul,Mohali,236,2
+1032,2023,Punjab Kings,Gujarat Titans,Gujarat Titans,Andre Russell,Delhi,203,4
+1033,2019,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,Jos Buttler,Mohali,172,4
+1034,2019,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Ravindra Jadeja,Ahmedabad,229,2
+1035,2019,Mumbai Indians,Delhi Capitals,Delhi Capitals,Rohit Sharma,Hyderabad,221,2
+1036,2023,Punjab Kings,Mumbai Indians,Punjab Kings,Rohit Sharma,Jaipur,176,5
+1037,2023,Punjab Kings,Delhi Capitals,Punjab Kings,Shubman Gill,Delhi,221,4
+1038,2022,Gujarat Titans,Mumbai Indians,Gujarat Titans,Rishabh Pant,Mohali,142,7
+1039,2021,Delhi Capitals,Mumbai Indians,Delhi Capitals,Jos Buttler,Mumbai,228,7
+1040,2019,Rajasthan Royals,Punjab Kings,Punjab Kings,Hardik Pandya,Kolkata,133,8
+1041,2019,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Jos Buttler,Bangalore,228,2
+1042,2021,Rajasthan Royals,Mumbai Indians,Mumbai Indians,KL Rahul,Hyderabad,231,9
+1043,2023,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Shubman Gill,Hyderabad,188,5
+1044,2022,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,Andre Russell,Chennai,219,4
+1045,2021,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Hardik Pandya,Ahmedabad,158,7
+1046,2022,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,Mumbai,124,7
+1047,2019,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Jos Buttler,Hyderabad,187,9
+1048,2019,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,Lucknow,234,8
+1049,2023,Rajasthan Royals,Punjab Kings,Punjab Kings,Virat Kohli,Hyderabad,195,5
+1050,2019,Delhi Capitals,Punjab Kings,Delhi Capitals,Shubman Gill,Delhi,151,10
+1051,2019,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Rishabh Pant,Delhi,142,10
+1052,2021,Delhi Capitals,Punjab Kings,Delhi Capitals,Virat Kohli,Hyderabad,136,2
+1053,2023,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Jos Buttler,Chennai,152,7
+1054,2022,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Hardik Pandya,Chennai,185,8
+1055,2023,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,Mumbai,126,3
+1056,2023,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Rishabh Pant,Ahmedabad,180,2
+1057,2022,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,Shubman Gill,Chennai,208,3
+1058,2022,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Ravindra Jadeja,Mumbai,132,8
+1059,2021,Delhi Capitals,Punjab Kings,Delhi Capitals,Rishabh Pant,Jaipur,208,6
+1060,2022,Delhi Capitals,Gujarat Titans,Delhi Capitals,Jos Buttler,Hyderabad,187,7
+1061,2021,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Shubman Gill,Chennai,178,7
+1062,2022,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Hardik Pandya,Chennai,212,5
+1063,2021,Punjab Kings,Rajasthan Royals,Punjab Kings,Shubman Gill,Lucknow,181,9
+1064,2019,Gujarat Titans,Delhi Capitals,Gujarat Titans,Shubman Gill,Delhi,228,10
+1065,2023,Mumbai Indians,Delhi Capitals,Mumbai Indians,MS Dhoni,Delhi,204,7
+1066,2018,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Andre Russell,Mumbai,186,3
+1067,2018,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Rohit Sharma,Delhi,199,5
+1068,2018,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,KL Rahul,Mohali,128,2
+1069,2020,Mumbai Indians,Punjab Kings,Punjab Kings,Rohit Sharma,Bangalore,192,2
+1070,2022,Punjab Kings,Lucknow Super Giants,Punjab Kings,MS Dhoni,Bangalore,176,3
+1071,2020,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Rohit Sharma,Delhi,142,3
+1072,2020,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Ravindra Jadeja,Jaipur,197,5
+1073,2022,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,Andre Russell,Ahmedabad,181,7
+1074,2022,Gujarat Titans,Mumbai Indians,Gujarat Titans,Shubman Gill,Jaipur,159,4
+1075,2022,Punjab Kings,Gujarat Titans,Punjab Kings,Hardik Pandya,Hyderabad,161,7
+1076,2023,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Rohit Sharma,Ahmedabad,199,10
+1077,2020,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,MS Dhoni,Hyderabad,180,7
+1078,2018,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,MS Dhoni,Bangalore,133,3
+1079,2022,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,MS Dhoni,Delhi,160,2
+1080,2019,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Andre Russell,Kolkata,121,6
+1081,2021,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Rohit Sharma,Delhi,157,3
+1082,2023,Gujarat Titans,Chennai Super Kings,Gujarat Titans,Rohit Sharma,Ahmedabad,196,8
+1083,2019,Delhi Capitals,Mumbai Indians,Delhi Capitals,Rishabh Pant,Bangalore,154,5
+1084,2023,Punjab Kings,Lucknow Super Giants,Punjab Kings,Andre Russell,Mumbai,218,9
+1085,2020,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Rohit Sharma,Hyderabad,238,3
+1086,2021,Chennai Super Kings,Punjab Kings,Chennai Super Kings,KL Rahul,Chennai,129,7
+1087,2022,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,Hardik Pandya,Jaipur,161,6
+1088,2018,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Rohit Sharma,Mumbai,146,3
+1089,2018,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,Shubman Gill,Hyderabad,135,7
+1090,2021,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,KL Rahul,Ahmedabad,137,9
+1091,2022,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Rishabh Pant,Lucknow,232,3
+1092,2022,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Rohit Sharma,Kolkata,166,8
+1093,2020,Gujarat Titans,Rajasthan Royals,Gujarat Titans,Rishabh Pant,Delhi,161,2
+1094,2021,Chennai Super Kings,Gujarat Titans,Gujarat Titans,Hardik Pandya,Mohali,227,10
+1095,2023,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Ravindra Jadeja,Mohali,204,3
+1096,2021,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,Rishabh Pant,Lucknow,145,9
+1097,2018,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,Rishabh Pant,Mohali,233,7
+1098,2022,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Jos Buttler,Lucknow,231,8
+1099,2022,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,MS Dhoni,Hyderabad,220,2
+1100,2021,Delhi Capitals,Gujarat Titans,Gujarat Titans,Shubman Gill,Jaipur,210,10
+1101,2019,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Jos Buttler,Lucknow,134,9
+1102,2018,Gujarat Titans,Mumbai Indians,Gujarat Titans,Ravindra Jadeja,Kolkata,135,4
+1103,2020,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Andre Russell,Chennai,231,3
+1104,2018,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Jos Buttler,Bangalore,166,9
+1105,2020,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Rohit Sharma,Kolkata,145,8
+1106,2020,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Hardik Pandya,Delhi,174,7
+1107,2018,Gujarat Titans,Delhi Capitals,Delhi Capitals,Jos Buttler,Kolkata,122,2
+1108,2019,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Ravindra Jadeja,Delhi,212,6
+1109,2018,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,MS Dhoni,Kolkata,149,3
+1110,2023,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Rohit Sharma,Mohali,179,10
+1111,2021,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,Jos Buttler,Lucknow,185,8
+1112,2020,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Rohit Sharma,Delhi,141,4
+1113,2021,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Virat Kohli,Jaipur,216,3
+1114,2022,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Hardik Pandya,Hyderabad,126,2
+1115,2019,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Jos Buttler,Kolkata,219,9
+1116,2019,Mumbai Indians,Gujarat Titans,Gujarat Titans,Rohit Sharma,Kolkata,227,2
+1117,2019,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Andre Russell,Chennai,203,3
+1118,2021,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,Andre Russell,Lucknow,151,3
+1119,2018,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Hardik Pandya,Delhi,136,6
+1120,2022,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,Hyderabad,235,6
+1121,2018,Chennai Super Kings,Punjab Kings,Chennai Super Kings,Andre Russell,Mumbai,226,9
+1122,2019,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Shubman Gill,Chennai,184,7
+1123,2019,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Shubman Gill,Kolkata,223,4
+1124,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Jos Buttler,Kolkata,155,4
+1125,2022,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Virat Kohli,Kolkata,216,8
+1126,2020,Rajasthan Royals,Punjab Kings,Punjab Kings,Ravindra Jadeja,Jaipur,192,3
+1127,2020,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Andre Russell,Bangalore,141,4
+1128,2022,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Rishabh Pant,Hyderabad,179,10
+1129,2021,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Shubman Gill,Lucknow,195,6
+1130,2019,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Hardik Pandya,Mumbai,219,8
+1131,2021,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Jos Buttler,Lucknow,179,2
+1132,2023,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Ravindra Jadeja,Hyderabad,120,8
+1133,2022,Punjab Kings,Chennai Super Kings,Punjab Kings,Virat Kohli,Ahmedabad,230,3
+1134,2018,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Rohit Sharma,Lucknow,198,6
+1135,2021,Lucknow Super Giants,Punjab Kings,Punjab Kings,MS Dhoni,Mohali,133,7
+1136,2021,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,Jos Buttler,Bangalore,179,10
+1137,2019,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Rohit Sharma,Kolkata,152,3
+1138,2020,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Shubman Gill,Hyderabad,214,9
+1139,2020,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,Ravindra Jadeja,Mohali,222,7
+1140,2022,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Hardik Pandya,Chennai,202,6
+1141,2020,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,KL Rahul,Kolkata,191,8
+1142,2020,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Jos Buttler,Lucknow,124,5
+1143,2020,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Ravindra Jadeja,Ahmedabad,170,4
+1144,2023,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Ravindra Jadeja,Lucknow,237,6
+1145,2019,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Shubman Gill,Mumbai,177,5
+1146,2019,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Ravindra Jadeja,Lucknow,196,5
+1147,2018,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Shubman Gill,Mohali,169,5
+1148,2022,Mumbai Indians,Delhi Capitals,Delhi Capitals,Rohit Sharma,Delhi,147,3
+1149,2019,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Ravindra Jadeja,Mumbai,167,4
+1150,2019,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Jos Buttler,Mumbai,212,2
+1151,2022,Delhi Capitals,Punjab Kings,Punjab Kings,Jos Buttler,Mohali,237,4
+1152,2022,Delhi Capitals,Gujarat Titans,Gujarat Titans,Jos Buttler,Mohali,161,8
+1153,2021,Punjab Kings,Delhi Capitals,Delhi Capitals,MS Dhoni,Ahmedabad,236,8
+1154,2019,Gujarat Titans,Chennai Super Kings,Gujarat Titans,MS Dhoni,Mohali,135,8
+1155,2022,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Andre Russell,Jaipur,199,3
+1156,2020,Delhi Capitals,Punjab Kings,Delhi Capitals,Rishabh Pant,Lucknow,150,9
+1157,2020,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Shubman Gill,Delhi,175,7
+1158,2023,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,Hardik Pandya,Ahmedabad,240,7
+1159,2019,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Hardik Pandya,Mumbai,164,2
+1160,2023,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Shubman Gill,Delhi,186,10
+1161,2022,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,Ahmedabad,190,8
+1162,2018,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Andre Russell,Delhi,123,8
+1163,2018,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Andre Russell,Lucknow,220,6
+1164,2021,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Rishabh Pant,Delhi,142,5
+1165,2023,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Hardik Pandya,Delhi,151,8
+1166,2018,Punjab Kings,Rajasthan Royals,Punjab Kings,Hardik Pandya,Mumbai,193,3
+1167,2021,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Shubman Gill,Hyderabad,125,5
+1168,2021,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,MS Dhoni,Ahmedabad,210,9
+1169,2021,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,Andre Russell,Bangalore,171,7
+1170,2018,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Ravindra Jadeja,Jaipur,232,7
+1171,2020,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Rohit Sharma,Bangalore,211,5
+1172,2020,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Jos Buttler,Ahmedabad,125,3
+1173,2019,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,Ravindra Jadeja,Lucknow,156,5
+1174,2021,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Andre Russell,Jaipur,189,10
+1175,2021,Gujarat Titans,Mumbai Indians,Gujarat Titans,Rohit Sharma,Bangalore,206,9
+1176,2018,Mumbai Indians,Delhi Capitals,Delhi Capitals,Jos Buttler,Chennai,212,9
+1177,2019,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Ravindra Jadeja,Delhi,197,6
+1178,2022,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Hardik Pandya,Bangalore,127,4
+1179,2018,Chennai Super Kings,Punjab Kings,Chennai Super Kings,Rohit Sharma,Hyderabad,200,6
+1180,2020,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Ravindra Jadeja,Kolkata,180,9
+1181,2022,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Shubman Gill,Mohali,231,9
+1182,2022,Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,Andre Russell,Mohali,219,4
+1183,2022,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,Ravindra Jadeja,Delhi,120,8
+1184,2022,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Rishabh Pant,Kolkata,225,7
+1185,2018,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Shubman Gill,Mohali,199,5
+1186,2021,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Virat Kohli,Jaipur,120,3
+1187,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Jos Buttler,Jaipur,164,9
+1188,2023,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,Virat Kohli,Chennai,220,10
+1189,2023,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Andre Russell,Delhi,173,7
+1190,2019,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Jos Buttler,Jaipur,221,4
+1191,2023,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Rohit Sharma,Ahmedabad,139,10
+1192,2020,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Andre Russell,Bangalore,131,8
+1193,2022,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,KL Rahul,Hyderabad,185,5
+1194,2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Andre Russell,Mohali,177,8
+1195,2023,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Hardik Pandya,Jaipur,221,10
+1196,2022,Mumbai Indians,Gujarat Titans,Gujarat Titans,KL Rahul,Bangalore,175,4
+1197,2023,Delhi Capitals,Gujarat Titans,Gujarat Titans,Ravindra Jadeja,Chennai,178,5
+1198,2019,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Shubman Gill,Chennai,197,8
+1199,2020,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Rohit Sharma,Jaipur,190,2
+1200,2020,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Rishabh Pant,Hyderabad,123,8
+1201,2021,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Rohit Sharma,Delhi,207,10
+1202,2018,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,KL Rahul,Bangalore,158,8
+1203,2020,Lucknow Super Giants,Punjab Kings,Punjab Kings,Virat Kohli,Mohali,165,6
+1204,2022,Punjab Kings,Kolkata Knight Riders,Punjab Kings,Ravindra Jadeja,Mumbai,212,10
+1205,2018,Punjab Kings,Chennai Super Kings,Chennai Super Kings,MS Dhoni,Mumbai,238,2
+1206,2022,Gujarat Titans,Mumbai Indians,Gujarat Titans,Andre Russell,Mohali,172,7
+1207,2020,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Rishabh Pant,Chennai,181,7
+1208,2019,Delhi Capitals,Mumbai Indians,Delhi Capitals,Virat Kohli,Chennai,128,6
+1209,2023,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Andre Russell,Ahmedabad,203,4
+1210,2021,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,KL Rahul,Kolkata,151,10
+1211,2020,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Rishabh Pant,Mohali,218,2
+1212,2020,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Shubman Gill,Hyderabad,233,9
+1213,2019,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,Mohali,198,9
+1214,2021,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,MS Dhoni,Ahmedabad,147,2
+1215,2018,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Ravindra Jadeja,Mumbai,156,8
+1216,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Jos Buttler,Jaipur,153,2
+1217,2018,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,MS Dhoni,Mumbai,225,2
+1218,2023,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Jos Buttler,Hyderabad,155,3
+1219,2018,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,Virat Kohli,Lucknow,173,3
+1220,2019,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,Hardik Pandya,Hyderabad,228,5
+1221,2020,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Shubman Gill,Jaipur,133,4
+1222,2019,Delhi Capitals,Mumbai Indians,Mumbai Indians,Virat Kohli,Delhi,121,2
+1223,2021,Chennai Super Kings,Delhi Capitals,Delhi Capitals,Shubman Gill,Chennai,140,3
+1224,2018,Punjab Kings,Kolkata Knight Riders,Punjab Kings,Jos Buttler,Jaipur,199,9
+1225,2021,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Shubman Gill,Mumbai,239,2
+1226,2021,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Jos Buttler,Mohali,194,7
+1227,2018,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Andre Russell,Mohali,217,6
+1228,2021,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,KL Rahul,Jaipur,178,2
+1229,2020,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,KL Rahul,Kolkata,195,2
+1230,2019,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,Shubman Gill,Delhi,148,6
+1231,2023,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Virat Kohli,Ahmedabad,224,2
+1232,2023,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Rishabh Pant,Mumbai,223,3
+1233,2019,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Rishabh Pant,Hyderabad,174,6
+1234,2023,Gujarat Titans,Mumbai Indians,Mumbai Indians,Andre Russell,Lucknow,225,9
+1235,2021,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Jos Buttler,Jaipur,135,6
+1236,2020,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Andre Russell,Chennai,192,8
+1237,2022,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Ravindra Jadeja,Bangalore,212,4
+1238,2020,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,Hardik Pandya,Lucknow,235,4
+1239,2019,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Ravindra Jadeja,Delhi,205,5
+1240,2021,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,Jos Buttler,Delhi,163,4
+1241,2018,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Andre Russell,Hyderabad,149,8
+1242,2019,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,Rishabh Pant,Mumbai,145,6
+1243,2023,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Virat Kohli,Mohali,239,3
+1244,2021,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,Ravindra Jadeja,Jaipur,158,2
+1245,2020,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Ravindra Jadeja,Ahmedabad,185,5
+1246,2021,Punjab Kings,Gujarat Titans,Punjab Kings,KL Rahul,Jaipur,211,5
+1247,2019,Mumbai Indians,Delhi Capitals,Delhi Capitals,Andre Russell,Kolkata,180,5
+1248,2023,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Andre Russell,Mumbai,172,9
+1249,2019,Chennai Super Kings,Gujarat Titans,Gujarat Titans,KL Rahul,Kolkata,175,4
+1250,2023,Mumbai Indians,Punjab Kings,Mumbai Indians,Shubman Gill,Ahmedabad,203,6
+1251,2018,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,Shubman Gill,Bangalore,195,9
+1252,2022,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,Virat Kohli,Mumbai,205,7
+1253,2018,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,Rishabh Pant,Lucknow,185,5
+1254,2021,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,Hardik Pandya,Mumbai,201,7
+1255,2022,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Hardik Pandya,Kolkata,202,10
+1256,2021,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Hardik Pandya,Mohali,196,8
+1257,2020,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,Andre Russell,Chennai,177,5
+1258,2019,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Andre Russell,Bangalore,135,6
+1259,2019,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Rishabh Pant,Delhi,236,2
+1260,2020,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Ravindra Jadeja,Ahmedabad,180,5
+1261,2018,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Virat Kohli,Mumbai,187,8
+1262,2023,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Jos Buttler,Delhi,208,9
+1263,2023,Punjab Kings,Rajasthan Royals,Punjab Kings,Rohit Sharma,Mohali,166,9
+1264,2022,Mumbai Indians,Delhi Capitals,Mumbai Indians,Andre Russell,Delhi,149,7
+1265,2019,Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,Rishabh Pant,Jaipur,152,7
+1266,2020,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Rohit Sharma,Ahmedabad,219,4
+1267,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,KL Rahul,Hyderabad,130,3
+1268,2018,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,Ravindra Jadeja,Bangalore,159,2
+1269,2021,Chennai Super Kings,Delhi Capitals,Delhi Capitals,Jos Buttler,Jaipur,157,7
+1270,2018,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Hardik Pandya,Lucknow,187,6
+1271,2019,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Rishabh Pant,Jaipur,209,6
+1272,2022,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,Hardik Pandya,Mumbai,128,2
+1273,2018,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,Virat Kohli,Jaipur,238,5
+1274,2018,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Virat Kohli,Ahmedabad,212,9
+1275,2021,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Jos Buttler,Bangalore,213,10
+1276,2022,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Rishabh Pant,Jaipur,229,6
+1277,2023,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Hardik Pandya,Delhi,237,2
+1278,2019,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,Chennai,183,9
+1279,2019,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Rishabh Pant,Jaipur,157,3
+1280,2019,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,Jos Buttler,Chennai,124,4
+1281,2018,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Jos Buttler,Bangalore,155,6
+1282,2018,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Shubman Gill,Jaipur,147,2
+1283,2023,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,Andre Russell,Mumbai,170,10
+1284,2023,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Rishabh Pant,Delhi,133,2
+1285,2018,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Jos Buttler,Hyderabad,183,2
+1286,2019,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,Kolkata,220,8
+1287,2019,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,MS Dhoni,Hyderabad,226,5
+1288,2018,Punjab Kings,Lucknow Super Giants,Punjab Kings,MS Dhoni,Mohali,240,6
+1289,2018,Mumbai Indians,Gujarat Titans,Mumbai Indians,Rishabh Pant,Hyderabad,166,5
+1290,2023,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Shubman Gill,Mohali,175,6
+1291,2020,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Jos Buttler,Delhi,209,7
+1292,2023,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,Jos Buttler,Ahmedabad,120,9
+1293,2020,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Shubman Gill,Mumbai,234,2
+1294,2018,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Rishabh Pant,Chennai,239,9
+1295,2023,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,KL Rahul,Ahmedabad,147,3
+1296,2023,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Rohit Sharma,Hyderabad,161,4
+1297,2022,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,Ravindra Jadeja,Bangalore,189,7
+1298,2019,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Andre Russell,Bangalore,167,9
+1299,2021,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,Mohali,177,7
+1300,2022,Delhi Capitals,Chennai Super Kings,Delhi Capitals,MS Dhoni,Mohali,140,8
+1301,2019,Punjab Kings,Mumbai Indians,Mumbai Indians,Andre Russell,Jaipur,199,3
+1302,2023,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,KL Rahul,Delhi,189,9
+1303,2018,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,Rishabh Pant,Chennai,176,2
+1304,2021,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Shubman Gill,Mohali,149,7
+1305,2021,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Ravindra Jadeja,Ahmedabad,234,8
+1306,2020,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Hardik Pandya,Chennai,130,4
+1307,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Ravindra Jadeja,Hyderabad,120,5
+1308,2022,Gujarat Titans,Punjab Kings,Punjab Kings,Shubman Gill,Hyderabad,174,3
+1309,2022,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,KL Rahul,Mohali,207,4
+1310,2023,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Andre Russell,Bangalore,159,5
+1311,2021,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Hardik Pandya,Mumbai,214,10
+1312,2018,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,Hardik Pandya,Chennai,196,2
+1313,2023,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,Shubman Gill,Ahmedabad,157,7
+1314,2018,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Ravindra Jadeja,Bangalore,237,4
+1315,2023,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,KL Rahul,Kolkata,148,4
+1316,2019,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,KL Rahul,Mumbai,165,6
+1317,2020,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Rishabh Pant,Kolkata,197,4
+1318,2022,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,KL Rahul,Kolkata,147,6
+1319,2023,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Ravindra Jadeja,Mumbai,192,2
+1320,2023,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Virat Kohli,Chennai,161,3
+1321,2022,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Andre Russell,Kolkata,120,6
+1322,2020,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Hardik Pandya,Chennai,207,9
+1323,2023,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,KL Rahul,Bangalore,229,10
+1324,2022,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Jos Buttler,Bangalore,161,5
+1325,2018,Rajasthan Royals,Punjab Kings,Punjab Kings,Shubman Gill,Mumbai,133,2
+1326,2021,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Rishabh Pant,Hyderabad,190,8
+1327,2018,Chennai Super Kings,Punjab Kings,Punjab Kings,Ravindra Jadeja,Bangalore,176,5
+1328,2018,Delhi Capitals,Rajasthan Royals,Delhi Capitals,MS Dhoni,Mohali,188,9
+1329,2022,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Andre Russell,Mumbai,225,6
+1330,2021,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,KL Rahul,Delhi,215,9
+1331,2022,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,Andre Russell,Delhi,123,7
+1332,2020,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Rishabh Pant,Delhi,122,9
+1333,2018,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Rishabh Pant,Hyderabad,238,2
+1334,2019,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,MS Dhoni,Jaipur,161,8
+1335,2018,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,KL Rahul,Hyderabad,195,7
+1336,2023,Chennai Super Kings,Punjab Kings,Punjab Kings,Rishabh Pant,Mohali,220,10
+1337,2019,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,Shubman Gill,Hyderabad,155,5
+1338,2019,Punjab Kings,Chennai Super Kings,Punjab Kings,Rishabh Pant,Jaipur,195,6
+1339,2022,Punjab Kings,Delhi Capitals,Punjab Kings,Hardik Pandya,Bangalore,229,8
+1340,2022,Lucknow Super Giants,Punjab Kings,Punjab Kings,Shubman Gill,Kolkata,189,5
+1341,2019,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Rohit Sharma,Mohali,175,9
+1342,2019,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Jos Buttler,Delhi,150,8
+1343,2021,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Shubman Gill,Ahmedabad,182,6
+1344,2023,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Virat Kohli,Chennai,175,8
+1345,2021,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,Andre Russell,Jaipur,144,9
+1346,2018,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,MS Dhoni,Bangalore,184,9
+1347,2018,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Hardik Pandya,Ahmedabad,132,6
+1348,2020,Punjab Kings,Rajasthan Royals,Punjab Kings,KL Rahul,Hyderabad,130,7
+1349,2019,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,Mohali,137,8
+1350,2022,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,Rohit Sharma,Kolkata,163,5
+1351,2019,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,Andre Russell,Bangalore,235,4
+1352,2020,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Rishabh Pant,Jaipur,147,3
+1353,2018,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,Virat Kohli,Hyderabad,232,3
+1354,2019,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Andre Russell,Bangalore,188,10
+1355,2020,Lucknow Super Giants,Punjab Kings,Punjab Kings,Shubman Gill,Chennai,194,8
+1356,2018,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Virat Kohli,Lucknow,212,5
+1357,2019,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,MS Dhoni,Mohali,215,7
+1358,2021,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Virat Kohli,Lucknow,180,5
+1359,2023,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Rishabh Pant,Hyderabad,237,5
+1360,2021,Punjab Kings,Lucknow Super Giants,Punjab Kings,MS Dhoni,Mohali,149,4
+1361,2022,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Hardik Pandya,Jaipur,221,7
+1362,2023,Mumbai Indians,Punjab Kings,Punjab Kings,Hardik Pandya,Chennai,205,10
+1363,2021,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Shubman Gill,Jaipur,202,8
+1364,2020,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,KL Rahul,Bangalore,154,7
+1365,2020,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Rishabh Pant,Jaipur,209,8
+1366,2023,Punjab Kings,Rajasthan Royals,Punjab Kings,Hardik Pandya,Lucknow,196,5
+1367,2020,Mumbai Indians,Delhi Capitals,Delhi Capitals,Rohit Sharma,Hyderabad,174,9
+1368,2020,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Rishabh Pant,Hyderabad,179,9
+1369,2022,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Ravindra Jadeja,Mohali,240,2
+1370,2022,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,Virat Kohli,Ahmedabad,123,2
+1371,2020,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Jos Buttler,Jaipur,205,8
+1372,2018,Punjab Kings,Chennai Super Kings,Punjab Kings,Rishabh Pant,Chennai,165,8
+1373,2022,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Rishabh Pant,Bangalore,134,9
+1374,2020,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Jos Buttler,Kolkata,151,2
+1375,2023,Lucknow Super Giants,Punjab Kings,Punjab Kings,Shubman Gill,Delhi,172,4
+1376,2022,Punjab Kings,Delhi Capitals,Delhi Capitals,Andre Russell,Hyderabad,144,10
+1377,2019,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Shubman Gill,Delhi,199,2
+1378,2020,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,Hardik Pandya,Jaipur,238,3
+1379,2020,Mumbai Indians,Delhi Capitals,Delhi Capitals,Hardik Pandya,Bangalore,212,8
+1380,2021,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Ravindra Jadeja,Bangalore,218,2
+1381,2023,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,Ravindra Jadeja,Mohali,199,3
+1382,2018,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,Rohit Sharma,Ahmedabad,168,7
+1383,2023,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,Shubman Gill,Hyderabad,207,4
+1384,2018,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Jos Buttler,Chennai,138,10
+1385,2018,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Jos Buttler,Chennai,175,7
+1386,2021,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Andre Russell,Ahmedabad,144,8
+1387,2021,Delhi Capitals,Punjab Kings,Punjab Kings,Jos Buttler,Kolkata,134,6
+1388,2021,Chennai Super Kings,Gujarat Titans,Gujarat Titans,MS Dhoni,Delhi,159,9
+1389,2023,Delhi Capitals,Punjab Kings,Delhi Capitals,Rohit Sharma,Lucknow,156,10
+1390,2020,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Ravindra Jadeja,Lucknow,162,10
+1391,2019,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,Jos Buttler,Delhi,239,6
+1392,2018,Gujarat Titans,Mumbai Indians,Gujarat Titans,Rishabh Pant,Lucknow,204,7
+1393,2018,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Virat Kohli,Jaipur,139,5
+1394,2023,Gujarat Titans,Mumbai Indians,Gujarat Titans,Jos Buttler,Mohali,233,9
+1395,2020,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,KL Rahul,Chennai,123,6
+1396,2023,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Hardik Pandya,Mohali,154,4
+1397,2022,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Rishabh Pant,Lucknow,156,7
+1398,2021,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Virat Kohli,Mumbai,175,5
+1399,2020,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,MS Dhoni,Hyderabad,136,4
+1400,2023,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Jos Buttler,Kolkata,212,9
+1401,2018,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Jos Buttler,Lucknow,174,10
+1402,2020,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Shubman Gill,Kolkata,174,2
+1403,2019,Rajasthan Royals,Punjab Kings,Punjab Kings,Rishabh Pant,Kolkata,163,9
+1404,2020,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,Delhi,211,10
+1405,2020,Delhi Capitals,Gujarat Titans,Delhi Capitals,MS Dhoni,Chennai,165,3
+1406,2020,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,Ravindra Jadeja,Ahmedabad,185,9
+1407,2020,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Andre Russell,Ahmedabad,167,2
+1408,2021,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,KL Rahul,Ahmedabad,181,7
+1409,2021,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,MS Dhoni,Mohali,202,4
+1410,2018,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Rohit Sharma,Hyderabad,214,5
+1411,2023,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Ravindra Jadeja,Delhi,240,6
+1412,2019,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Andre Russell,Delhi,218,2
+1413,2020,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,Ahmedabad,183,2
+1414,2023,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,Rishabh Pant,Kolkata,236,4
+1415,2022,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Virat Kohli,Ahmedabad,211,10
+1416,2019,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,KL Rahul,Ahmedabad,149,5
+1417,2019,Punjab Kings,Mumbai Indians,Mumbai Indians,MS Dhoni,Mohali,147,7
+1418,2022,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Rohit Sharma,Bangalore,237,2
+1419,2023,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Ravindra Jadeja,Delhi,170,3
+1420,2018,Kolkata Knight Riders,Punjab Kings,Punjab Kings,Virat Kohli,Hyderabad,188,6
+1421,2018,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Rishabh Pant,Bangalore,189,7
+1422,2018,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Hardik Pandya,Ahmedabad,135,4
+1423,2021,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Ravindra Jadeja,Ahmedabad,223,7
+1424,2019,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Virat Kohli,Hyderabad,153,7
+1425,2021,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Shubman Gill,Kolkata,144,10
+1426,2018,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Andre Russell,Ahmedabad,224,2
+1427,2022,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Rishabh Pant,Kolkata,219,10
+1428,2020,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Hardik Pandya,Mumbai,208,2
+1429,2020,Delhi Capitals,Punjab Kings,Delhi Capitals,Virat Kohli,Hyderabad,191,4
+1430,2019,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,Jos Buttler,Hyderabad,150,8
+1431,2018,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,MS Dhoni,Hyderabad,240,10
+1432,2018,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,KL Rahul,Bangalore,139,9
+1433,2022,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Rishabh Pant,Mohali,205,3
+1434,2023,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Rishabh Pant,Hyderabad,220,5
+1435,2023,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Shubman Gill,Delhi,126,9
+1436,2019,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,Chennai,225,4
+1437,2020,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,KL Rahul,Chennai,239,9
+1438,2018,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,Hyderabad,130,3
+1439,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,Kolkata,220,8
+1440,2023,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,KL Rahul,Lucknow,201,8
+1441,2022,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Rohit Sharma,Mohali,170,3
+1442,2023,Mumbai Indians,Punjab Kings,Punjab Kings,Rohit Sharma,Jaipur,132,6
+1443,2021,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,Ravindra Jadeja,Delhi,175,5
+1444,2023,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Rishabh Pant,Hyderabad,134,2
+1445,2022,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Shubman Gill,Chennai,212,10
+1446,2019,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,MS Dhoni,Chennai,146,6
+1447,2019,Chennai Super Kings,Punjab Kings,Chennai Super Kings,MS Dhoni,Lucknow,173,6
+1448,2018,Delhi Capitals,Mumbai Indians,Delhi Capitals,Hardik Pandya,Chennai,220,2
+1449,2021,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Hardik Pandya,Kolkata,168,4
+1450,2018,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Rohit Sharma,Mumbai,130,3
+1451,2020,Chennai Super Kings,Punjab Kings,Chennai Super Kings,Andre Russell,Ahmedabad,215,9
+1452,2018,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Rishabh Pant,Mohali,208,2
+1453,2023,Delhi Capitals,Mumbai Indians,Delhi Capitals,Jos Buttler,Ahmedabad,219,10
+1454,2020,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Shubman Gill,Kolkata,237,8
+1455,2020,Rajasthan Royals,Punjab Kings,Punjab Kings,Andre Russell,Mumbai,165,4
+1456,2020,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,Hyderabad,189,3
+1457,2022,Punjab Kings,Mumbai Indians,Mumbai Indians,Virat Kohli,Jaipur,215,10
+1458,2019,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Rohit Sharma,Kolkata,186,4
+1459,2021,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Hardik Pandya,Kolkata,131,3
+1460,2023,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,KL Rahul,Chennai,164,10
+1461,2022,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Rishabh Pant,Mohali,165,10
+1462,2021,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Andre Russell,Hyderabad,182,8
+1463,2019,Kolkata Knight Riders,Punjab Kings,Punjab Kings,Jos Buttler,Lucknow,131,8
+1464,2021,Kolkata Knight Riders,Punjab Kings,Punjab Kings,Virat Kohli,Kolkata,188,2
+1465,2020,Gujarat Titans,Punjab Kings,Punjab Kings,MS Dhoni,Lucknow,148,9
+1466,2020,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,Andre Russell,Ahmedabad,164,10
+1467,2022,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,Hardik Pandya,Delhi,238,3
+1468,2021,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Hardik Pandya,Mohali,181,4
+1469,2020,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Jos Buttler,Mohali,174,8
+1470,2022,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Rohit Sharma,Ahmedabad,228,4
+1471,2023,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Andre Russell,Chennai,148,4
+1472,2022,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Jos Buttler,Delhi,124,2
+1473,2022,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Shubman Gill,Kolkata,185,4
+1474,2019,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Hardik Pandya,Bangalore,235,10
+1475,2019,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,Jos Buttler,Ahmedabad,128,7
+1476,2023,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Hardik Pandya,Mumbai,143,3
+1477,2020,Mumbai Indians,Punjab Kings,Punjab Kings,Rishabh Pant,Mohali,166,4
+1478,2021,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,MS Dhoni,Bangalore,205,8
+1479,2020,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,Ravindra Jadeja,Hyderabad,171,4
+1480,2018,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Hardik Pandya,Chennai,216,6
+1481,2022,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,Andre Russell,Jaipur,229,7
+1482,2019,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,MS Dhoni,Ahmedabad,149,8
+1483,2018,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Hardik Pandya,Hyderabad,214,5
+1484,2021,Punjab Kings,Mumbai Indians,Mumbai Indians,Shubman Gill,Delhi,207,7
+1485,2023,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,MS Dhoni,Kolkata,135,7
+1486,2021,Punjab Kings,Gujarat Titans,Gujarat Titans,Rohit Sharma,Jaipur,195,3
+1487,2019,Punjab Kings,Delhi Capitals,Punjab Kings,Hardik Pandya,Jaipur,179,8
+1488,2022,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Rishabh Pant,Jaipur,190,6
+1489,2022,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,Virat Kohli,Mohali,212,8
+1490,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,Mumbai,127,5
+1491,2018,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,Lucknow,130,5
+1492,2021,Mumbai Indians,Punjab Kings,Mumbai Indians,Andre Russell,Lucknow,216,2
+1493,2023,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,Jos Buttler,Delhi,155,3
+1494,2018,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Ravindra Jadeja,Mumbai,142,2
+1495,2018,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,Hardik Pandya,Kolkata,147,6
+1496,2019,Delhi Capitals,Gujarat Titans,Gujarat Titans,Virat Kohli,Bangalore,151,5
+1497,2018,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,Rohit Sharma,Delhi,147,10
+1498,2022,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Shubman Gill,Mumbai,211,10
+1499,2020,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Shubman Gill,Delhi,209,2
+1500,2018,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Rohit Sharma,Kolkata,192,5
+1501,2023,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Shubman Gill,Jaipur,156,3
+1502,2020,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Andre Russell,Hyderabad,140,8
+1503,2019,Mumbai Indians,Gujarat Titans,Gujarat Titans,Jos Buttler,Mumbai,227,4
+1504,2022,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Hardik Pandya,Mumbai,192,2
+1505,2020,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Rohit Sharma,Hyderabad,129,4
+1506,2022,Mumbai Indians,Punjab Kings,Punjab Kings,Hardik Pandya,Mohali,160,3
+1507,2020,Gujarat Titans,Delhi Capitals,Gujarat Titans,Virat Kohli,Lucknow,235,10
+1508,2021,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,Shubman Gill,Mohali,182,2
+1509,2021,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,KL Rahul,Lucknow,149,2
+1510,2019,Punjab Kings,Rajasthan Royals,Punjab Kings,Rohit Sharma,Ahmedabad,128,4
+1511,2021,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Hardik Pandya,Bangalore,126,4
+1512,2021,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Hardik Pandya,Jaipur,163,5
+1513,2023,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,Lucknow,153,5
+1514,2018,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Hardik Pandya,Ahmedabad,204,5
+1515,2021,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,KL Rahul,Ahmedabad,150,7
+1516,2020,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,Ravindra Jadeja,Delhi,158,3
+1517,2021,Mumbai Indians,Gujarat Titans,Gujarat Titans,Rohit Sharma,Hyderabad,180,10
+1518,2022,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,MS Dhoni,Chennai,159,3
+1519,2022,Mumbai Indians,Delhi Capitals,Mumbai Indians,Shubman Gill,Mumbai,200,10
+1520,2018,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,Andre Russell,Delhi,236,3
+1521,2020,Delhi Capitals,Mumbai Indians,Mumbai Indians,Shubman Gill,Lucknow,183,4
+1522,2022,Punjab Kings,Chennai Super Kings,Punjab Kings,Andre Russell,Kolkata,204,8
+1523,2019,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Hardik Pandya,Mohali,198,5
+1524,2021,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,Ravindra Jadeja,Lucknow,207,8
+1525,2019,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Rishabh Pant,Chennai,214,6
+1526,2022,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Rohit Sharma,Mohali,222,6
+1527,2020,Delhi Capitals,Chennai Super Kings,Delhi Capitals,KL Rahul,Kolkata,158,2
+1528,2021,Punjab Kings,Lucknow Super Giants,Punjab Kings,KL Rahul,Mumbai,165,7
+1529,2023,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,Chennai,227,10
+1530,2018,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,Virat Kohli,Mohali,181,8
+1531,2020,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Jos Buttler,Delhi,172,2
+1532,2021,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,Hardik Pandya,Bangalore,207,8
+1533,2020,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Rishabh Pant,Mohali,154,7
+1534,2020,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Shubman Gill,Lucknow,136,2
+1535,2021,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,Shubman Gill,Jaipur,193,4
+1536,2023,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Virat Kohli,Kolkata,145,3
+1537,2018,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Jos Buttler,Hyderabad,139,4
+1538,2020,Punjab Kings,Mumbai Indians,Punjab Kings,Virat Kohli,Ahmedabad,193,7
+1539,2018,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,Rohit Sharma,Jaipur,212,9
+1540,2021,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Ravindra Jadeja,Mumbai,215,6
+1541,2018,Punjab Kings,Delhi Capitals,Punjab Kings,Rishabh Pant,Mumbai,188,10
+1542,2019,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,Mumbai,169,7
+1543,2021,Mumbai Indians,Punjab Kings,Mumbai Indians,Rishabh Pant,Kolkata,142,2
+1544,2020,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Ravindra Jadeja,Kolkata,160,4
+1545,2018,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Hardik Pandya,Kolkata,145,10
+1546,2020,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Hardik Pandya,Bangalore,198,8
+1547,2023,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Rohit Sharma,Lucknow,122,8
+1548,2022,Gujarat Titans,Chennai Super Kings,Gujarat Titans,Hardik Pandya,Jaipur,125,5
+1549,2023,Gujarat Titans,Rajasthan Royals,Gujarat Titans,Virat Kohli,Jaipur,121,7
+1550,2021,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,Hardik Pandya,Jaipur,185,8
+1551,2018,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Jos Buttler,Ahmedabad,232,8
+1552,2019,Delhi Capitals,Mumbai Indians,Mumbai Indians,Ravindra Jadeja,Jaipur,185,7
+1553,2018,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,Hardik Pandya,Delhi,225,8
+1554,2021,Punjab Kings,Mumbai Indians,Punjab Kings,Rohit Sharma,Ahmedabad,166,8
+1555,2023,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,Delhi,126,5
+1556,2018,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Jos Buttler,Lucknow,198,7
+1557,2019,Gujarat Titans,Delhi Capitals,Delhi Capitals,Virat Kohli,Hyderabad,166,3
+1558,2021,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Andre Russell,Mohali,232,9
+1559,2022,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,Hyderabad,151,9
+1560,2019,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,Rohit Sharma,Mumbai,135,8
+1561,2022,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Virat Kohli,Hyderabad,172,2
+1562,2018,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,MS Dhoni,Mumbai,209,7
+1563,2020,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,KL Rahul,Bangalore,120,9
+1564,2023,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Virat Kohli,Ahmedabad,163,3
+1565,2023,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,Hardik Pandya,Bangalore,121,9
+1566,2018,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,Virat Kohli,Jaipur,124,6
+1567,2021,Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,Andre Russell,Jaipur,140,3
+1568,2018,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,KL Rahul,Mumbai,134,8
+1569,2020,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,MS Dhoni,Jaipur,120,8
+1570,2022,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,KL Rahul,Delhi,237,8
+1571,2021,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Hardik Pandya,Mohali,205,3
+1572,2022,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Hardik Pandya,Chennai,208,3
+1573,2019,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,Hardik Pandya,Mumbai,133,6
+1574,2018,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Shubman Gill,Chennai,149,9
+1575,2018,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Rohit Sharma,Hyderabad,135,10
+1576,2020,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,MS Dhoni,Mumbai,235,2
+1577,2022,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Andre Russell,Bangalore,218,6
+1578,2022,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Rohit Sharma,Hyderabad,191,7
+1579,2020,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Shubman Gill,Delhi,183,5
+1580,2022,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,MS Dhoni,Chennai,121,2
+1581,2020,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Hardik Pandya,Jaipur,185,6
+1582,2022,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Shubman Gill,Kolkata,159,3
+1583,2020,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Virat Kohli,Bangalore,216,3
+1584,2020,Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,KL Rahul,Chennai,230,9
+1585,2022,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Shubman Gill,Jaipur,195,9
+1586,2018,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Hardik Pandya,Ahmedabad,181,5
+1587,2020,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Andre Russell,Jaipur,231,9
+1588,2019,Punjab Kings,Mumbai Indians,Mumbai Indians,Rohit Sharma,Mohali,197,2
+1589,2018,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,Mohali,223,2
+1590,2021,Rajasthan Royals,Gujarat Titans,Gujarat Titans,MS Dhoni,Kolkata,237,10
+1591,2023,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Shubman Gill,Chennai,185,7
+1592,2020,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Shubman Gill,Lucknow,140,3
+1593,2023,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,Rohit Sharma,Bangalore,159,4
+1594,2019,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Rishabh Pant,Lucknow,163,4
+1595,2019,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,Jos Buttler,Delhi,195,3
+1596,2023,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,MS Dhoni,Chennai,198,2
+1597,2018,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,MS Dhoni,Hyderabad,214,9
+1598,2021,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Rohit Sharma,Ahmedabad,196,8
+1599,2020,Gujarat Titans,Rajasthan Royals,Gujarat Titans,Hardik Pandya,Mumbai,167,4
+1600,2021,Gujarat Titans,Punjab Kings,Gujarat Titans,Ravindra Jadeja,Jaipur,156,3
+1601,2019,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Rishabh Pant,Hyderabad,230,8
+1602,2021,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,KL Rahul,Ahmedabad,169,8
+1603,2020,Delhi Capitals,Gujarat Titans,Delhi Capitals,MS Dhoni,Bangalore,132,8
+1604,2018,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Ravindra Jadeja,Jaipur,235,3
+1605,2019,Punjab Kings,Gujarat Titans,Punjab Kings,Rishabh Pant,Bangalore,123,6
+1606,2023,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,KL Rahul,Chennai,212,8
+1607,2021,Mumbai Indians,Rajasthan Royals,Mumbai Indians,MS Dhoni,Bangalore,139,3
+1608,2022,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Ravindra Jadeja,Ahmedabad,187,4
+1609,2018,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Andre Russell,Jaipur,190,2
+1610,2018,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Rohit Sharma,Ahmedabad,205,7
+1611,2022,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Rohit Sharma,Mohali,228,4
+1612,2018,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Virat Kohli,Ahmedabad,135,3
+1613,2023,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,Kolkata,171,10
+1614,2018,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Virat Kohli,Kolkata,199,9
+1615,2019,Gujarat Titans,Mumbai Indians,Gujarat Titans,Virat Kohli,Chennai,145,9
+1616,2020,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Jos Buttler,Hyderabad,211,3
+1617,2022,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,MS Dhoni,Mohali,229,6
+1618,2019,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Rishabh Pant,Ahmedabad,151,6
+1619,2019,Lucknow Super Giants,Royal Challengers Bangalore,Lucknow Super Giants,Hardik Pandya,Mohali,228,2
+1620,2021,Delhi Capitals,Gujarat Titans,Delhi Capitals,Jos Buttler,Chennai,185,8
+1621,2018,Delhi Capitals,Gujarat Titans,Gujarat Titans,Shubman Gill,Chennai,227,8
+1622,2022,Punjab Kings,Gujarat Titans,Punjab Kings,Shubman Gill,Kolkata,144,7
+1623,2023,Punjab Kings,Delhi Capitals,Punjab Kings,Jos Buttler,Kolkata,206,10
+1624,2019,Chennai Super Kings,Punjab Kings,Chennai Super Kings,KL Rahul,Hyderabad,221,2
+1625,2019,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Andre Russell,Chennai,124,9
+1626,2022,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Jos Buttler,Delhi,193,5
+1627,2020,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,Jos Buttler,Kolkata,216,7
+1628,2020,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Hardik Pandya,Ahmedabad,176,10
+1629,2020,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,KL Rahul,Jaipur,232,7
+1630,2020,Punjab Kings,Chennai Super Kings,Chennai Super Kings,Jos Buttler,Jaipur,238,10
+1631,2018,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Rohit Sharma,Chennai,212,2
+1632,2021,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Rohit Sharma,Mumbai,145,3
+1633,2023,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,Ravindra Jadeja,Mumbai,213,4
+1634,2020,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,Rishabh Pant,Jaipur,172,7
+1635,2021,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Ravindra Jadeja,Mohali,207,9
+1636,2019,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Shubman Gill,Chennai,147,7
+1637,2022,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,Mohali,192,4
+1638,2019,Punjab Kings,Delhi Capitals,Delhi Capitals,KL Rahul,Hyderabad,162,6
+1639,2022,Punjab Kings,Mumbai Indians,Mumbai Indians,Jos Buttler,Delhi,125,9
+1640,2019,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Shubman Gill,Mumbai,178,10
+1641,2020,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Rishabh Pant,Bangalore,183,9
+1642,2019,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,MS Dhoni,Chennai,230,2
+1643,2018,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Shubman Gill,Hyderabad,158,4
+1644,2023,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Rishabh Pant,Mohali,213,8
+1645,2020,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,Jos Buttler,Bangalore,133,6
+1646,2023,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,Andre Russell,Chennai,237,5
+1647,2023,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Andre Russell,Ahmedabad,197,9
+1648,2018,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,KL Rahul,Delhi,211,2
+1649,2023,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,KL Rahul,Chennai,219,6
+1650,2018,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Shubman Gill,Jaipur,167,10
+1651,2018,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Rohit Sharma,Jaipur,140,5
+1652,2021,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,Virat Kohli,Bangalore,232,5
+1653,2022,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,Virat Kohli,Lucknow,159,5
+1654,2022,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Shubman Gill,Chennai,191,6
+1655,2020,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,MS Dhoni,Chennai,202,8
+1656,2020,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,Andre Russell,Lucknow,213,9
+1657,2023,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,Andre Russell,Lucknow,187,10
+1658,2020,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,Ahmedabad,159,2
+1659,2023,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Shubman Gill,Ahmedabad,137,2
+1660,2023,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,KL Rahul,Lucknow,209,8
+1661,2019,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,Mumbai,182,2
+1662,2023,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Andre Russell,Hyderabad,215,10
+1663,2021,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Ravindra Jadeja,Kolkata,214,9
+1664,2019,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,MS Dhoni,Kolkata,230,9
+1665,2022,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,KL Rahul,Lucknow,192,6
+1666,2019,Punjab Kings,Mumbai Indians,Punjab Kings,Virat Kohli,Chennai,220,5
+1667,2019,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,Jaipur,235,5
+1668,2019,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Rishabh Pant,Mumbai,120,3
+1669,2018,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,KL Rahul,Mohali,202,9
+1670,2020,Chennai Super Kings,Punjab Kings,Punjab Kings,Andre Russell,Delhi,217,4
+1671,2018,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Jos Buttler,Mohali,168,10
+1672,2021,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,Ravindra Jadeja,Chennai,210,10
+1673,2021,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Andre Russell,Kolkata,215,2
+1674,2023,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Rishabh Pant,Jaipur,157,5
+1675,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,Jaipur,153,8
+1676,2020,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Ravindra Jadeja,Mohali,132,7
+1677,2019,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Jos Buttler,Lucknow,148,5
+1678,2020,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,Hardik Pandya,Jaipur,220,8
+1679,2020,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Rohit Sharma,Bangalore,120,6
+1680,2022,Gujarat Titans,Chennai Super Kings,Gujarat Titans,MS Dhoni,Chennai,127,10
+1681,2022,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Shubman Gill,Ahmedabad,209,3
+1682,2022,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,Rohit Sharma,Ahmedabad,132,5
+1683,2023,Punjab Kings,Chennai Super Kings,Punjab Kings,KL Rahul,Jaipur,175,10
+1684,2018,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,Ravindra Jadeja,Bangalore,200,2
+1685,2018,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,MS Dhoni,Lucknow,215,5
+1686,2022,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Hardik Pandya,Lucknow,234,2
+1687,2022,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,MS Dhoni,Delhi,176,4
+1688,2021,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Rishabh Pant,Mohali,214,2
+1689,2018,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,Chennai,160,6
+1690,2023,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,Bangalore,199,2
+1691,2021,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Ravindra Jadeja,Mohali,225,6
+1692,2018,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Rishabh Pant,Bangalore,153,6
+1693,2018,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Hardik Pandya,Mumbai,121,6
+1694,2020,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,Jaipur,220,4
+1695,2020,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Rishabh Pant,Mumbai,178,10
+1696,2018,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Hardik Pandya,Bangalore,151,7
+1697,2021,Mumbai Indians,Delhi Capitals,Mumbai Indians,KL Rahul,Kolkata,142,3
+1698,2021,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,KL Rahul,Kolkata,149,5
+1699,2022,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,Ravindra Jadeja,Kolkata,226,5
+1700,2021,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,Jos Buttler,Ahmedabad,143,4
+1701,2018,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,MS Dhoni,Hyderabad,229,6
+1702,2022,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Jos Buttler,Mumbai,152,6
+1703,2022,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Hardik Pandya,Mumbai,146,9
+1704,2022,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Virat Kohli,Delhi,187,3
+1705,2019,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Jos Buttler,Lucknow,149,6
+1706,2023,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Ravindra Jadeja,Hyderabad,235,5
+1707,2020,Chennai Super Kings,Punjab Kings,Chennai Super Kings,KL Rahul,Jaipur,183,8
+1708,2023,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Rishabh Pant,Delhi,188,4
+1709,2021,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Shubman Gill,Lucknow,164,8
+1710,2018,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Rohit Sharma,Ahmedabad,140,6
+1711,2023,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Andre Russell,Bangalore,196,3
+1712,2019,Gujarat Titans,Punjab Kings,Gujarat Titans,MS Dhoni,Mohali,171,6
+1713,2020,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,MS Dhoni,Kolkata,240,9
+1714,2021,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,KL Rahul,Chennai,225,5
+1715,2019,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Hardik Pandya,Lucknow,125,3
+1716,2019,Punjab Kings,Mumbai Indians,Mumbai Indians,Jos Buttler,Ahmedabad,203,5
+1717,2018,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Virat Kohli,Hyderabad,205,4
+1718,2019,Mumbai Indians,Punjab Kings,Mumbai Indians,Shubman Gill,Chennai,216,3
+1719,2023,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Jos Buttler,Lucknow,134,6
+1720,2019,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Virat Kohli,Ahmedabad,225,2
+1721,2019,Punjab Kings,Gujarat Titans,Gujarat Titans,Jos Buttler,Delhi,131,8
+1722,2021,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Ravindra Jadeja,Ahmedabad,152,8
+1723,2020,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Shubman Gill,Mohali,184,6
+1724,2022,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Hardik Pandya,Mohali,199,5
+1725,2020,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Jos Buttler,Mumbai,173,5
+1726,2023,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Virat Kohli,Lucknow,128,7
+1727,2022,Punjab Kings,Gujarat Titans,Gujarat Titans,KL Rahul,Ahmedabad,150,10
+1728,2021,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Rishabh Pant,Hyderabad,120,8
+1729,2018,Chennai Super Kings,Punjab Kings,Punjab Kings,Andre Russell,Jaipur,194,4
+1730,2023,Gujarat Titans,Mumbai Indians,Mumbai Indians,Virat Kohli,Lucknow,224,3
+1731,2022,Gujarat Titans,Delhi Capitals,Gujarat Titans,Shubman Gill,Ahmedabad,126,5
+1732,2020,Chennai Super Kings,Punjab Kings,Punjab Kings,MS Dhoni,Ahmedabad,196,4
+1733,2018,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Rohit Sharma,Kolkata,132,10
+1734,2020,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Jos Buttler,Ahmedabad,138,5
+1735,2020,Gujarat Titans,Mumbai Indians,Gujarat Titans,Virat Kohli,Hyderabad,191,5
+1736,2019,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Shubman Gill,Bangalore,218,6
+1737,2020,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,Ravindra Jadeja,Chennai,168,5
+1738,2022,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,Rishabh Pant,Kolkata,200,4
+1739,2018,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Rohit Sharma,Jaipur,131,8
+1740,2020,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Andre Russell,Mumbai,179,7
+1741,2022,Delhi Capitals,Punjab Kings,Punjab Kings,Hardik Pandya,Jaipur,158,9
+1742,2018,Punjab Kings,Gujarat Titans,Gujarat Titans,Jos Buttler,Mumbai,236,2
+1743,2018,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,Rishabh Pant,Bangalore,206,3
+1744,2021,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,MS Dhoni,Mohali,123,3
+1745,2022,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Andre Russell,Bangalore,191,2
+1746,2021,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Rohit Sharma,Jaipur,158,9
+1747,2022,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,MS Dhoni,Delhi,219,5
+1748,2021,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Rohit Sharma,Bangalore,200,10
+1749,2023,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Ravindra Jadeja,Hyderabad,150,4
+1750,2022,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Jos Buttler,Mohali,153,2
+1751,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Jos Buttler,Delhi,207,5
+1752,2023,Punjab Kings,Gujarat Titans,Gujarat Titans,Andre Russell,Lucknow,146,6
+1753,2022,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,MS Dhoni,Chennai,194,7
+1754,2022,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Rohit Sharma,Kolkata,161,4
+1755,2022,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Virat Kohli,Lucknow,145,4
+1756,2018,Lucknow Super Giants,Punjab Kings,Punjab Kings,Jos Buttler,Hyderabad,135,2
+1757,2018,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,MS Dhoni,Lucknow,169,7
+1758,2019,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Virat Kohli,Delhi,143,9
+1759,2022,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,Kolkata,171,4
+1760,2018,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,Rishabh Pant,Ahmedabad,135,2
+1761,2019,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,Rishabh Pant,Bangalore,212,2
+1762,2020,Delhi Capitals,Punjab Kings,Punjab Kings,Shubman Gill,Mumbai,128,6
+1763,2018,Punjab Kings,Mumbai Indians,Punjab Kings,MS Dhoni,Chennai,175,6
+1764,2018,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Rishabh Pant,Chennai,227,6
+1765,2022,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Ravindra Jadeja,Bangalore,133,5
+1766,2019,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,Chennai,229,5
+1767,2020,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,MS Dhoni,Kolkata,139,9
+1768,2019,Gujarat Titans,Rajasthan Royals,Gujarat Titans,Rishabh Pant,Lucknow,143,9
+1769,2020,Chennai Super Kings,Delhi Capitals,Delhi Capitals,Shubman Gill,Chennai,141,9
+1770,2018,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Andre Russell,Lucknow,150,7
+1771,2021,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Hardik Pandya,Mumbai,189,4
+1772,2023,Mumbai Indians,Delhi Capitals,Mumbai Indians,Andre Russell,Bangalore,148,10
+1773,2018,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Hardik Pandya,Hyderabad,202,4
+1774,2020,Mumbai Indians,Gujarat Titans,Mumbai Indians,KL Rahul,Ahmedabad,217,8
+1775,2022,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Virat Kohli,Chennai,169,9
+1776,2020,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Virat Kohli,Kolkata,221,5
+1777,2019,Mumbai Indians,Gujarat Titans,Gujarat Titans,Rishabh Pant,Ahmedabad,184,7
+1778,2021,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Ravindra Jadeja,Hyderabad,122,3
+1779,2018,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Shubman Gill,Lucknow,167,3
+1780,2021,Punjab Kings,Mumbai Indians,Punjab Kings,Hardik Pandya,Delhi,179,6
+1781,2022,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,Ahmedabad,202,7
+1782,2021,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Jos Buttler,Chennai,204,8
+1783,2018,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Andre Russell,Delhi,145,10
+1784,2022,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Andre Russell,Ahmedabad,233,4
+1785,2021,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Hardik Pandya,Mumbai,220,9
+1786,2018,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,Rohit Sharma,Lucknow,178,7
+1787,2018,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Shubman Gill,Ahmedabad,186,4
+1788,2021,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Hardik Pandya,Ahmedabad,132,2
+1789,2018,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,KL Rahul,Lucknow,192,10
+1790,2022,Delhi Capitals,Mumbai Indians,Mumbai Indians,Shubman Gill,Lucknow,152,6
+1791,2018,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Shubman Gill,Ahmedabad,183,4
+1792,2021,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,Lucknow,195,7
+1793,2018,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,MS Dhoni,Lucknow,220,9
+1794,2018,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Virat Kohli,Bangalore,143,8
+1795,2022,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Jos Buttler,Kolkata,172,9
+1796,2022,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,KL Rahul,Kolkata,184,6
+1797,2021,Mumbai Indians,Gujarat Titans,Gujarat Titans,Hardik Pandya,Jaipur,193,7
+1798,2021,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Rishabh Pant,Delhi,225,6
+1799,2022,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,Bangalore,129,3
+1800,2018,Punjab Kings,Delhi Capitals,Delhi Capitals,Rohit Sharma,Chennai,125,8
+1801,2022,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Shubman Gill,Jaipur,197,6
+1802,2023,Gujarat Titans,Punjab Kings,Gujarat Titans,Hardik Pandya,Ahmedabad,198,7
+1803,2019,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Rohit Sharma,Ahmedabad,216,6
+1804,2023,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Andre Russell,Kolkata,232,10
+1805,2023,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,KL Rahul,Lucknow,177,8
+1806,2021,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Rishabh Pant,Ahmedabad,206,9
+1807,2021,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Andre Russell,Lucknow,171,2
+1808,2020,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,Chennai,202,4
+1809,2023,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Ravindra Jadeja,Mohali,149,8
+1810,2022,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,Andre Russell,Lucknow,175,8
+1811,2023,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Rishabh Pant,Lucknow,147,3
+1812,2019,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Ravindra Jadeja,Mumbai,229,2
+1813,2018,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,Jos Buttler,Kolkata,171,5
+1814,2019,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,KL Rahul,Kolkata,141,7
+1815,2018,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Andre Russell,Chennai,209,10
+1816,2022,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,KL Rahul,Chennai,150,4
+1817,2023,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Ravindra Jadeja,Lucknow,132,3
+1818,2019,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,MS Dhoni,Bangalore,136,9
+1819,2020,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,KL Rahul,Lucknow,221,3
+1820,2019,Punjab Kings,Mumbai Indians,Punjab Kings,MS Dhoni,Hyderabad,128,6
+1821,2023,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Rishabh Pant,Bangalore,178,7
+1822,2022,Delhi Capitals,Mumbai Indians,Mumbai Indians,KL Rahul,Mumbai,150,4
+1823,2023,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Rohit Sharma,Mohali,160,2
+1824,2022,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,MS Dhoni,Ahmedabad,239,6
+1825,2018,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Shubman Gill,Bangalore,186,9
+1826,2020,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Jos Buttler,Chennai,177,3
+1827,2022,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Hardik Pandya,Mohali,230,2
+1828,2023,Gujarat Titans,Rajasthan Royals,Gujarat Titans,Jos Buttler,Bangalore,174,4
+1829,2023,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Rohit Sharma,Mumbai,237,5
+1830,2018,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,Ravindra Jadeja,Delhi,160,3
+1831,2019,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Jos Buttler,Hyderabad,203,7
+1832,2018,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Virat Kohli,Mohali,159,8
+1833,2019,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Hardik Pandya,Hyderabad,160,9
+1834,2018,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,KL Rahul,Ahmedabad,137,5
+1835,2019,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Shubman Gill,Chennai,179,7
+1836,2023,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Rohit Sharma,Chennai,196,9
+1837,2019,Gujarat Titans,Delhi Capitals,Gujarat Titans,Virat Kohli,Jaipur,214,7
+1838,2022,Gujarat Titans,Punjab Kings,Punjab Kings,KL Rahul,Mumbai,129,9
+1839,2023,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Rohit Sharma,Mohali,176,6
+1840,2021,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,KL Rahul,Delhi,195,6
+1841,2021,Punjab Kings,Gujarat Titans,Punjab Kings,Virat Kohli,Bangalore,237,6
+1842,2021,Mumbai Indians,Gujarat Titans,Mumbai Indians,Jos Buttler,Hyderabad,168,6
+1843,2018,Gujarat Titans,Delhi Capitals,Gujarat Titans,Jos Buttler,Bangalore,201,6
+1844,2020,Kolkata Knight Riders,Punjab Kings,Punjab Kings,Rishabh Pant,Ahmedabad,183,8
+1845,2023,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Shubman Gill,Kolkata,210,4
+1846,2019,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Virat Kohli,Lucknow,156,9
+1847,2022,Punjab Kings,Gujarat Titans,Gujarat Titans,Virat Kohli,Mumbai,130,7
+1848,2018,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Hardik Pandya,Bangalore,152,9
+1849,2022,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,Jos Buttler,Mumbai,238,6
+1850,2019,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Jos Buttler,Mohali,148,5
+1851,2019,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Shubman Gill,Ahmedabad,231,4
+1852,2023,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Jos Buttler,Lucknow,231,7
+1853,2021,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Virat Kohli,Mumbai,170,6
+1854,2022,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,Hyderabad,196,3
+1855,2023,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Virat Kohli,Mumbai,213,6
+1856,2019,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Rishabh Pant,Ahmedabad,153,3
+1857,2022,Gujarat Titans,Delhi Capitals,Delhi Capitals,Virat Kohli,Delhi,122,4
+1858,2018,Mumbai Indians,Delhi Capitals,Delhi Capitals,Jos Buttler,Hyderabad,233,6
+1859,2022,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Jos Buttler,Mumbai,141,2
+1860,2023,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Shubman Gill,Mumbai,226,7
+1861,2018,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Rohit Sharma,Bangalore,160,10
+1862,2018,Delhi Capitals,Rajasthan Royals,Delhi Capitals,MS Dhoni,Hyderabad,201,5
+1863,2019,Punjab Kings,Delhi Capitals,Delhi Capitals,Virat Kohli,Bangalore,185,10
+1864,2021,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Shubman Gill,Kolkata,188,9
+1865,2023,Delhi Capitals,Mumbai Indians,Mumbai Indians,Jos Buttler,Mohali,152,2
+1866,2023,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Shubman Gill,Jaipur,122,5
+1867,2019,Chennai Super Kings,Delhi Capitals,Delhi Capitals,Rohit Sharma,Ahmedabad,191,4
+1868,2020,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,Jaipur,237,9
+1869,2020,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Ravindra Jadeja,Mohali,135,5
+1870,2022,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,KL Rahul,Bangalore,215,5
+1871,2022,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Ravindra Jadeja,Jaipur,236,8
+1872,2023,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,MS Dhoni,Hyderabad,180,2
+1873,2023,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Jos Buttler,Mumbai,125,9
+1874,2022,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,KL Rahul,Lucknow,165,4
+1875,2019,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Rishabh Pant,Delhi,175,6
+1876,2023,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Rohit Sharma,Hyderabad,236,6
+1877,2020,Chennai Super Kings,Punjab Kings,Chennai Super Kings,Andre Russell,Jaipur,219,8
+1878,2023,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,Ravindra Jadeja,Kolkata,153,6
+1879,2018,Gujarat Titans,Mumbai Indians,Gujarat Titans,Rishabh Pant,Chennai,191,5
+1880,2023,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,MS Dhoni,Hyderabad,136,9
+1881,2022,Mumbai Indians,Punjab Kings,Mumbai Indians,Rohit Sharma,Delhi,188,5
+1882,2020,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Jos Buttler,Ahmedabad,142,9
+1883,2021,Gujarat Titans,Chennai Super Kings,Gujarat Titans,Rohit Sharma,Jaipur,167,9
+1884,2022,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Rishabh Pant,Delhi,209,3
+1885,2022,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,KL Rahul,Chennai,178,8
+1886,2019,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Virat Kohli,Lucknow,206,2
+1887,2018,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,Andre Russell,Mumbai,208,2
+1888,2018,Rajasthan Royals,Gujarat Titans,Gujarat Titans,KL Rahul,Kolkata,196,10
+1889,2021,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Hardik Pandya,Hyderabad,167,8
+1890,2020,Punjab Kings,Chennai Super Kings,Chennai Super Kings,Rishabh Pant,Mumbai,180,7
+1891,2019,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Rohit Sharma,Bangalore,232,8
+1892,2021,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,Jos Buttler,Bangalore,188,2
+1893,2020,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,KL Rahul,Mohali,140,3
+1894,2019,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,KL Rahul,Mumbai,130,3
+1895,2020,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,Mohali,187,6
+1896,2020,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,Mumbai,184,6
+1897,2023,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Rishabh Pant,Jaipur,122,7
+1898,2019,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Shubman Gill,Jaipur,133,7
+1899,2023,Gujarat Titans,Rajasthan Royals,Gujarat Titans,Andre Russell,Mohali,198,5
+1900,2019,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,Jos Buttler,Bangalore,202,9
+1901,2020,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Ravindra Jadeja,Chennai,237,5
+1902,2023,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Shubman Gill,Lucknow,237,5
+1903,2019,Punjab Kings,Rajasthan Royals,Rajasthan Royals,MS Dhoni,Bangalore,177,8
+1904,2023,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,Rishabh Pant,Mumbai,216,8
+1905,2019,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,MS Dhoni,Chennai,148,8
+1906,2023,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Ravindra Jadeja,Chennai,235,9
+1907,2019,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Andre Russell,Mohali,195,7
+1908,2022,Gujarat Titans,Mumbai Indians,Mumbai Indians,Hardik Pandya,Hyderabad,213,4
+1909,2019,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,Virat Kohli,Ahmedabad,149,4
+1910,2022,Punjab Kings,Gujarat Titans,Gujarat Titans,MS Dhoni,Bangalore,171,6
+1911,2019,Kolkata Knight Riders,Punjab Kings,Punjab Kings,KL Rahul,Bangalore,201,10
+1912,2020,Mumbai Indians,Punjab Kings,Mumbai Indians,Hardik Pandya,Delhi,176,5
+1913,2018,Punjab Kings,Chennai Super Kings,Punjab Kings,Hardik Pandya,Chennai,175,2
+1914,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Hardik Pandya,Mumbai,128,6
+1915,2021,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,Virat Kohli,Kolkata,207,4
+1916,2023,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Hardik Pandya,Bangalore,156,8
+1917,2018,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Hardik Pandya,Ahmedabad,194,9
+1918,2020,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Andre Russell,Mumbai,214,10
+1919,2018,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Ravindra Jadeja,Kolkata,231,4
+1920,2020,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,Hardik Pandya,Mohali,201,2
+1921,2019,Punjab Kings,Gujarat Titans,Punjab Kings,Hardik Pandya,Delhi,221,3
+1922,2020,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,Shubman Gill,Delhi,133,10
+1923,2021,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Ravindra Jadeja,Chennai,236,8
+1924,2021,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,Shubman Gill,Ahmedabad,163,3
+1925,2023,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Shubman Gill,Jaipur,163,6
+1926,2022,Gujarat Titans,Rajasthan Royals,Gujarat Titans,KL Rahul,Chennai,173,10
+1927,2021,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Jos Buttler,Chennai,240,2
+1928,2020,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,Ravindra Jadeja,Mumbai,132,8
+1929,2019,Mumbai Indians,Punjab Kings,Punjab Kings,Ravindra Jadeja,Delhi,240,9
+1930,2023,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Jos Buttler,Jaipur,150,5
+1931,2022,Punjab Kings,Mumbai Indians,Punjab Kings,Rishabh Pant,Bangalore,222,5
+1932,2023,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,Bangalore,141,7
+1933,2018,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,Virat Kohli,Jaipur,137,10
+1934,2020,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Ravindra Jadeja,Hyderabad,179,8
+1935,2020,Gujarat Titans,Punjab Kings,Punjab Kings,Rohit Sharma,Chennai,124,2
+1936,2023,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Virat Kohli,Ahmedabad,212,5
+1937,2018,Delhi Capitals,Mumbai Indians,Mumbai Indians,MS Dhoni,Jaipur,197,7
+1938,2022,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,Shubman Gill,Chennai,177,10
+1939,2022,Punjab Kings,Chennai Super Kings,Chennai Super Kings,Andre Russell,Bangalore,203,5
+1940,2018,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,MS Dhoni,Ahmedabad,137,2
+1941,2023,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Rishabh Pant,Delhi,208,10
+1942,2018,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Rohit Sharma,Jaipur,163,10
+1943,2022,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,Jos Buttler,Jaipur,174,10
+1944,2022,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Rohit Sharma,Hyderabad,207,7
+1945,2018,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,Mohali,235,4
+1946,2020,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Rohit Sharma,Mumbai,150,3
+1947,2019,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,MS Dhoni,Chennai,133,3
+1948,2019,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,Mumbai,135,9
+1949,2022,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,KL Rahul,Jaipur,187,4
+1950,2023,Mumbai Indians,Punjab Kings,Punjab Kings,Andre Russell,Mohali,121,7
+1951,2023,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,KL Rahul,Delhi,168,7
+1952,2018,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Ravindra Jadeja,Bangalore,174,6
+1953,2022,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Rishabh Pant,Jaipur,175,3
+1954,2020,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,MS Dhoni,Mohali,172,3
+1955,2022,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,KL Rahul,Mumbai,129,3
+1956,2020,Chennai Super Kings,Punjab Kings,Punjab Kings,Rohit Sharma,Kolkata,189,7
+1957,2021,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Rohit Sharma,Jaipur,179,7
+1958,2022,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Hardik Pandya,Kolkata,178,7
+1959,2021,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Rishabh Pant,Hyderabad,125,10
+1960,2023,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Virat Kohli,Ahmedabad,132,8
+1961,2020,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,Shubman Gill,Mumbai,157,7
+1962,2019,Delhi Capitals,Mumbai Indians,Delhi Capitals,Hardik Pandya,Kolkata,235,2
+1963,2018,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,KL Rahul,Lucknow,240,3
+1964,2018,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,KL Rahul,Bangalore,127,4
+1965,2019,Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,MS Dhoni,Mohali,207,2
+1966,2023,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,MS Dhoni,Mumbai,208,8
+1967,2020,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Hardik Pandya,Jaipur,214,4
+1968,2020,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,Virat Kohli,Chennai,120,10
+1969,2023,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Virat Kohli,Lucknow,157,8
+1970,2022,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Hardik Pandya,Bangalore,204,9
+1971,2018,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,MS Dhoni,Bangalore,189,8
+1972,2019,Punjab Kings,Chennai Super Kings,Chennai Super Kings,Virat Kohli,Lucknow,173,10
+1973,2019,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,MS Dhoni,Kolkata,144,5
+1974,2021,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,Hardik Pandya,Jaipur,217,8
+1975,2019,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,Hyderabad,215,3
+1976,2019,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Jos Buttler,Hyderabad,182,9
+1977,2023,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Ravindra Jadeja,Delhi,226,5
+1978,2023,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Hardik Pandya,Ahmedabad,143,10
+1979,2022,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Jos Buttler,Kolkata,191,7
+1980,2021,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Jos Buttler,Kolkata,129,2
+1981,2021,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Andre Russell,Kolkata,177,2
+1982,2020,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Hardik Pandya,Ahmedabad,166,9
+1983,2018,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Ravindra Jadeja,Hyderabad,177,6
+1984,2022,Gujarat Titans,Mumbai Indians,Mumbai Indians,Hardik Pandya,Jaipur,191,8
+1985,2018,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Shubman Gill,Hyderabad,188,7
+1986,2023,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,Jos Buttler,Mumbai,183,3
+1987,2020,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,Rishabh Pant,Jaipur,136,9
+1988,2022,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Rohit Sharma,Kolkata,151,2
+1989,2023,Rajasthan Royals,Punjab Kings,Punjab Kings,Rishabh Pant,Mohali,165,7
+1990,2019,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,MS Dhoni,Jaipur,234,3
+1991,2020,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Rohit Sharma,Lucknow,140,2
+1992,2018,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Jos Buttler,Jaipur,177,6
+1993,2018,Delhi Capitals,Punjab Kings,Delhi Capitals,MS Dhoni,Kolkata,208,4
+1994,2023,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,Rohit Sharma,Ahmedabad,132,4
+1995,2021,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Shubman Gill,Lucknow,176,3
+1996,2022,Chennai Super Kings,Punjab Kings,Punjab Kings,MS Dhoni,Bangalore,134,4
+1997,2023,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Ravindra Jadeja,Mumbai,166,2
+1998,2020,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Shubman Gill,Kolkata,129,10
+1999,2020,Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,Rohit Sharma,Mumbai,176,5
+2000,2021,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Hardik Pandya,Delhi,204,8
