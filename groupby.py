@@ -1,15 +1,10 @@
 import pandas as pd
-
 df = pd.read_csv("cleaned_ipl_data.csv")
-
 print(df.head())
 print(df.columns)
 
-
 group_col = df.columns[0]
 num_col = df.select_dtypes(include="number").columns[0]
-
-
 grouped = df.groupby(group_col)[num_col]
 
 avg_value = grouped.mean()
