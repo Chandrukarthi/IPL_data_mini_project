@@ -56,17 +56,6 @@ plt.title("Course Enrollment Percentage")
 plt.savefig("pie_courses.png")
 plt.show()
 
-
-# Box Plot
-marks_data = [45,50,55,60,65,70,75,80]
-
-plt.boxplot(marks_data)
-plt.title("Marks Distribution")
-plt.ylabel("Marks")
-plt.savefig("boxplot_marks.png")
-plt.show()
-
-
 # Area plot
 days = [1,2,3,4,5]
 visitors = [100,120,150,170,200]
